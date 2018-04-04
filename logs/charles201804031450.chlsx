@@ -1,0 +1,2208 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE charles-session SYSTEM "https://www.charlesproxy.com/dtd/charles-session-1_2.dtd">
+
+<charles-session>
+<transaction status="COMPLETE" method="GET" protocolVersion="HTTP/1.1" protocol="http" host="29773.v.fwmrm.net" actualPort="80" path="/ad/g/1" query="prof=169843%3Anbcu_live_jsam_moat&amp;nw=169843&amp;caid=TELE_ANV_3694641&amp;vdur=227&amp;asml=https%3A%2F%2Ftelemundo-vh.akamaihd.net%2Fi%2FMPX%2Fvideo%2FNBCU_Telemundo%2F20180403%2F3694641_1522760252%2F180403_3694641_Impondran_cuotas_minimas_a_los_jueces_para_a_%2C18%2C40%2C25%2C12%2C7%2C4%2C2%2C00.mp4.csmil%2Fmaster.m3u8%3F__b__%3D1000%26hdnea%3Dst%3D1522781288~exp%3D1522788518~acl%3D%2Fi%2FMPX%2Fvideo%2FNBCU_Telemundo%2F20180403%2F3694641_1522760252%2F180403_3694641_Impondran_cuotas_minimas_a_los_jueces_para_a_*~id%3D565b3f0a-8e60-4123-9b04-425da454b8ba~hmac%3D5b40529aedbcea7b4c3ff9a70aba2896edb4fbb525425006ea5a00cdb47710b4&amp;vprn=4549&amp;csid=telemundo_homepage_vod&amp;pvrn=5915&amp;cd=1440%2C900&amp;vclr=js-6.21.0.0-941ca67f-201803052354&amp;resp=json&amp;orig=http%3A%2F%2Fplayer.theplatform.com&amp;cbfn=tv.freewheel.SDK._instanceQueue%5B%27Context_1%27%5D.requestComplete&amp;flag=%2Bplay-uapl%2Bsltp%2Bemcr%2Bunka%2Bunks%2Bfbad%2Bslcb%2Bnucr%2Baeti%2Brema%2Bvicb;_fw_h_x_flash_version=0%2C0%2C0%2C0&amp;_fw_dpr=2.00;" remoteAddress="29773.v.fwmrm.net/75.98.70.37" clientAddress="/127.0.0.1" clientPort="51479" startTime="2018-04-03T14:48:38.688-04:00" startTimeMillis="1522781318688" requestBeginTime="2018-04-03T14:48:38.714-04:00" requestBeginTimeMillis="1522781318714" requestTime="2018-04-03T14:48:38.715-04:00" requestTimeMillis="1522781318715" responseTime="2018-04-03T14:48:38.753-04:00" responseTimeMillis="1522781318753" endTime="2018-04-03T14:48:38.770-04:00" endTimeMillis="1522781318770" duration="82" dnsDuration="16" connectDuration="10" requestDuration="1" responseDuration="17" latency="38" overallSpeed="128182" requestSpeed="3106000" responseSpeed="435588" totalSize="10511">
+<request headers="3106" body="0">
+<headers>
+<first-line><![CDATA[GET /ad/g/1?prof=169843%3Anbcu_live_jsam_moat&nw=169843&caid=TELE_ANV_3694641&vdur=227&asml=https%3A%2F%2Ftelemundo-vh.akamaihd.net%2Fi%2FMPX%2Fvideo%2FNBCU_Telemundo%2F20180403%2F3694641_1522760252%2F180403_3694641_Impondran_cuotas_minimas_a_los_jueces_para_a_%2C18%2C40%2C25%2C12%2C7%2C4%2C2%2C00.mp4.csmil%2Fmaster.m3u8%3F__b__%3D1000%26hdnea%3Dst%3D1522781288~exp%3D1522788518~acl%3D%2Fi%2FMPX%2Fvideo%2FNBCU_Telemundo%2F20180403%2F3694641_1522760252%2F180403_3694641_Impondran_cuotas_minimas_a_los_jueces_para_a_*~id%3D565b3f0a-8e60-4123-9b04-425da454b8ba~hmac%3D5b40529aedbcea7b4c3ff9a70aba2896edb4fbb525425006ea5a00cdb47710b4&vprn=4549&csid=telemundo_homepage_vod&pvrn=5915&cd=1440%2C900&vclr=js-6.21.0.0-941ca67f-201803052354&resp=json&orig=http%3A%2F%2Fplayer.theplatform.com&cbfn=tv.freewheel.SDK._instanceQueue%5B%27Context_1%27%5D.requestComplete&flag=%2Bplay-uapl%2Bsltp%2Bemcr%2Bunka%2Bunks%2Bfbad%2Bslcb%2Bnucr%2Baeti%2Brema%2Bvicb;_fw_h_x_flash_version=0%2C0%2C0%2C0&_fw_dpr=2.00; HTTP/1.1]]></first-line>
+<header>
+<name>Host</name>
+<value>29773.v.fwmrm.net</value></header>
+<header>
+<name>User-Agent</name>
+<value>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36</value></header>
+<header>
+<name>Accept</name>
+<value>*/*</value></header>
+<header>
+<name>Referer</name>
+<value>http://player.theplatform.com/p/0L7ZPC/2Ebwsgm4BTLn/embed/select/2u6L1LkPVoqu?siteSectionId=telemundo_homepage_vod&amp;autoPlay=true</value></header>
+<header>
+<name>Accept-Encoding</name>
+<value>gzip, deflate</value></header>
+<header>
+<name>Accept-Language</name>
+<value>en-US,en;q=0.9</value></header>
+<header>
+<name>Cookie</name>
+<value>_uid=&quot;c048_6535460784372566592&quot;; _stid=&quot;169843.0.1455055434%2C171224.0.1427313294%2C&quot;; _ue=&quot;32829%2C127719%2C381110%2C382039%2C384101%2C386123%2C386261%2C392379&quot;; _ha=&quot;&quot;; _sid=&quot;a190_6540102377004368996&quot;; NSC_ozdbewjq3.gxnsn.ofu*80=ffffffff09091fc345525d5f4f58455e445a4a423209; NSC_ozdbewjq4.gxnsn.ofu*80=ffffffff09091a3c45525d5f4f58455e445a4a423209; NSC_btibewjq1.gxnsn.ofu*80=ffffffff09091c3745525d5f4f58455e445a4a423208; NSC_btibewjq2.gxnsn.ofu*80=ffffffff09091c3245525d5f4f58455e445a4a423208; _av=&quot;1522778317.23721454.60%2C&quot;; _cvr=&quot;1522778394%5E169843%5Esg502899%7Esg504688%5E1%7E1%5E60.000000%7E17.000000%2C&quot;; _wr=&quot;g487571&quot;; _cph=&quot;1522781056.5448.1.1%2C1522778308.15562.1.1%2C&quot;; _vr=&quot;1522781056.752.21674093%7E22994662%7E23107655%7E23688014%7E23724722%7E23742613%7E23757618%7E23757817%7E23793047%7E23803113%7E23809033%7E23809039%7E%2C1522780988.2159.21674093%7E22994662%7E23107655%7E23688014%7E23724722%7E23742613%7E23757618%7E23757817%7E23793047%7E23803113%7E23809033%7E23809039%7E%2C1522780898.747.21674093%7E22994662%7E23107655%7E23688014%7E23724722%7E23742613%7E23757618%7E23757817%7E23793047%7E23803113%7E23809033%7E23809039%7E%2C1522780811.7821.21674093%7E22994662%7E23107655%7E23688014%7E23724722%7E23742613%7E23757618%7E23757817%7E23793047%7E23803113%7E23809033%7E23809039%7E%2C1522778308.3121.17979008%7E22590296%7E23721455%7E%2C1522767392.5507.19521268%7E22994662%7E23674414%7E23688014%7E23707327%7E23719746%7E23724722%7E23742613%7E23757522%7E23757598%7E23757618%7E23803113%7E%2C&quot;; _auv=&quot;g487571%7E1.1522781091.121%2C22200.1522781091.121%2C%5Eg502899%7E1.1522778332.60%2C22200.1522778332.60%2C%5E&quot;; _sc=&quot;sg487571.1522780811.1522781214.3600.121.119%2Csg502899.1522778308.1522781214.28800.60.12%2C&quot;</value></header></headers></request>
+<response status="200" headers="1778" body="5627" mime-type="text/javascript" contentEncoding="gzip">
+<headers>
+<first-line><![CDATA[HTTP/1.1 200 OK]]></first-line>
+<header>
+<name>Set-Cookie</name>
+<value>_ha=&quot;&quot;;domain=.fwmrm.net;path=/;</value></header>
+<header>
+<name>Set-Cookie</name>
+<value>_stid=&quot;169843.0.1455055434%2C171224.0.1427313294%2C&quot;;expires=Wed, 03 Apr 2019 18:48:38 GMT;domain=.fwmrm.net;path=/;</value></header>
+<header>
+<name>Set-Cookie</name>
+<value>_cph=&quot;1522781318.5448.1.1%2C1522778308.15562.1.1%2C&quot;;expires=Thu, 03 May 2018 18:48:38 GMT;domain=.fwmrm.net;path=/;</value></header>
+<header>
+<name>Set-Cookie</name>
+<value>_sc=&quot;sg487571.1522780811.1522781318.3600.121.119%2Csg502899.1522778308.1522781318.28800.60.12%2C&quot;;expires=Thu, 03 May 2018 18:48:38 GMT;domain=.fwmrm.net;path=/;</value></header>
+<header>
+<name>Set-Cookie</name>
+<value>_vr=&quot;1522781318.4549.21674089%7E21674093%7E22350538%7E22754101%7E22994662%7E23107655%7E23130107%7E23586518%7E23688014%7E23803113%7E23809033%7E23809039%7E%2C1522781056.752.21674093%7E22994662%7E23107655%7E23688014%7E23724722%7E23742613%7E23757618%7E23757817%7E23793047%7E23803113%7E23809033%7E23809039%7E%2C1522780988.2159.21674093%7E22994662%7E23107655%7E23688014%7E23724722%7E23742613%7E23757618%7E23757817%7E23793047%7E23803113%7E23809033%7E23809039%7E%2C1522780898.747.21674093%7E22994662%7E23107655%7E23688014%7E23724722%7E23742613%7E23757618%7E23757817%7E23793047%7E23803113%7E23809033%7E23809039%7E%2C1522780811.7821.21674093%7E22994662%7E23107655%7E23688014%7E23724722%7E23742613%7E23757618%7E23757817%7E23793047%7E23803113%7E23809033%7E23809039%7E%2C1522778308.3121.17979008%7E22590296%7E23721455%7E%2C1522767392.5507.19521268%7E22994662%7E23674414%7E23688014%7E23707327%7E23719746%7E23724722%7E23742613%7E23757522%7E23757598%7E23757618%7E23803113%7E%2C&quot;;expires=Thu, 03 May 2018 18:48:38 GMT;domain=.fwmrm.net;path=/;</value></header>
+<header>
+<name>X-FW-Power-By</name>
+<value>Smart</value></header>
+<header>
+<name>Vary</name>
+<value>Accept-Encoding</value></header>
+<header>
+<name>Content-Encoding</name>
+<value>gzip</value></header>
+<header>
+<name>Content-Type</name>
+<value>text/javascript</value></header>
+<header>
+<name>Content-Length</name>
+<value>5627</value></header>
+<header>
+<name>Expires</name>
+<value>0</value></header>
+<header>
+<name>Pragma</name>
+<value>no-cache</value></header>
+<header>
+<name>Cache-Control</name>
+<value>no-store</value></header>
+<header>
+<name>Date</name>
+<value>Tue, 03 Apr 2018 18:48:37 GMT</value></header>
+<header>
+<name>Server</name>
+<value>FWS</value></header>
+<header>
+<name>P3P</name>
+<value>policyref=&quot;http://www.freewheel.tv/w3c/p3p.xml&quot;,CP=&quot;ALL DSP COR NID&quot;</value></header>
+<header>
+<name>Proxy-Connection</name>
+<value>Keep-alive</value></header></headers>
+<body decoded="true"><![CDATA[tv.freewheel.SDK._instanceQueue['Context_1'].requestComplete({
+	"version" : "1",
+	"networkId" : "169843",
+	"parameters" : [
+		{
+			"name" : "autoloadExtensions",
+			"category" : "profile",
+			"value" : "https:\/\/z.moatads.com\/freewheel353205095517817\/MoatFreeWheelJSPEM.js"
+		},
+		{
+			"name" : "enableExternalCandidateSSTF",
+			"category" : "profile",
+			"value" : "1"
+		}
+	],
+	"rendererManifest" : {
+		"adRenderers" : {
+			"version" : "1",
+			"adRenderer" : [
+				{
+					"name" : "g_html5_html_wo_mraid_before_5.13",
+					"url" : "class:\/\/HTMLRenderer",
+					"contentType" : "text\/html_doc_ref,text\/html_doc_lit_mobile,",
+					"adUnit" : "video,still-image,fixed-size-interactive,text-ad,logo-text-ad,linear-animation,generic-overlay,text-ad-click-to-content,still-image-click-to-content,generic-overlay-click-to-content,logo-text-ad-click-to-content,slate,logo,logo-click-to-content,player-skin,generic-overlay-click-to-content2,variable-size-interactive,app-interstitial,",
+					"slotType" : "preroll,midroll,postroll,overlay,display,",
+					"creativeApi" : "None,"
+				},
+				{
+					"name" : "169843:nbcu_jsam_video",
+					"url" : "class:\/\/VideoRenderer",
+					"contentType" : "video\/quicktime,video\/mp4-h264,video\/quicktime-h264,video\/mp4,video\/m4v,video\/mov,video\/mp4-mpeg4,video\/mp4-mpeg4_simple,video\/mp4-h264_less_eq_level_3_baseline-640-480-less_eq_1500_kbps-aaclc,video\/mp4-h264_less_level_1.3_baseline-320-240-less_eq_768_kbps-aaclc,video\/mp4-mpeg4-640-480-less_eq_2500_kbps-aaclc,video\/mp4-h264_less_eq_level_3.1_main-heaac,application\/x-mpegurl,video\/3gpp,",
+					"adUnit" : "video,",
+					"slotType" : "preroll,midroll,postroll,",
+					"creativeApi" : "None,"
+				},
+				{
+					"name" : "g_html5_null",
+					"url" : "class:\/\/NullRenderer",
+					"contentType" : "null\/null,",
+					"adUnit" : "video,linear-animation,generic-overlay,app-interstitial,",
+					"slotType" : "preroll,midroll,postroll,overlay,display,pause_midroll,",
+					"creativeApi" : "None,"
+				},
+				{
+					"name" : "g_html5_vpaid",
+					"url" : "class:\/\/VPAIDRenderer",
+					"contentType" : "text\/js_ref,",
+					"adUnit" : "video,fixed-size-interactive,app-interstitial,",
+					"slotType" : "preroll,midroll,postroll,overlay,",
+					"creativeApi" : "VPAID,"
+				},
+				{
+					"name" : "g_html5_html_mraid_only",
+					"url" : "class:\/\/HTMLRenderer",
+					"contentType" : "text\/html_doc_ref,text\/html_doc_lit_mobile,",
+					"adUnit" : "video,still-image,fixed-size-interactive,linear-animation,app-interstitial,",
+					"slotType" : "preroll,midroll,postroll,overlay,display,",
+					"creativeApi" : "MRAID-1.0,"
+				},
+				{
+					"name" : "g_html5_vast_desktop",
+					"url" : "class:\/\/VastTranslator",
+					"contentType" : "external\/vast-2,",
+					"adUnit" : "video,still-image,fixed-size-interactive,text-ad,linear-animation,generic-overlay,video-click-to-content,slate,logo,logo-click-to-content,app-interstitial,",
+					"slotType" : "preroll,midroll,postroll,overlay,display,",
+					"parameter" : [
+						{
+							"name" : "translator.vast.asyncLoad",
+							"value" : "true"
+						}
+					],
+					"creativeApi" : "VPAID,MRAID-1.0,None,"
+				}
+			]
+		}
+	},
+	"visitor" : {
+		"httpHeaders" : [],
+		"state" : []
+	},
+	"errors" : {
+		"errors" : []
+	},
+	"eventCallbacks" : {
+		"eventCallbacks" : [
+			{
+				"url" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011",
+				"type" : "GENERIC",
+				"use" : "BASE",
+				"showBrowser" : false,
+				"trackingUrls" : []
+			}
+		]
+	},
+	"ads" : {
+		"ads" : [
+			{
+				"adId" : "23688014",
+				"noPreload" : false,
+				"noLoad" : false,
+				"adUnit" : "22200",
+				"isWrapper" : false,
+				"required" : false,
+				"creatives" : [
+					{
+						"creativeId" : "3528058",
+						"baseUnit" : "video",
+						"duration" : "15",
+						"creativeRenditions" : [
+							{
+								"creativeRenditionId" : "9734067",
+								"wrapperType" : "external\/vast-2",
+								"wrapperUrl" : "https:\/\/rtr.innovid.com\/r1.5abe61c664cd50.73138667;cb=69636971?dipn=deviceid&deviceid=&ivc_deviceid_raw=",
+								"creativeApi" : "None",
+								"width" : "640",
+								"height" : "360",
+								"preference" : "0",
+								"adReplicaId" : "0",
+								"bitrate" : "800",
+								"parameters" : [],
+								"asset" : {
+									"id" : "9654306",
+									"name" : "Default Asset for Rendition",
+									"contentType" : "video\/mp4-h264",
+									"mimeType" : "video\/mp4",
+									"deliveryMethod" : "progressive"
+								},
+								"otherAssets" : []
+							},
+							{
+								"creativeRenditionId" : "9734069",
+								"wrapperType" : "external\/vast-2",
+								"wrapperUrl" : "https:\/\/rtr.innovid.com\/r1.5abe61c664cd50.73138667;cb=69636971?dipn=deviceid&deviceid=&ivc_deviceid_raw=",
+								"creativeApi" : "None",
+								"width" : "640",
+								"height" : "360",
+								"preference" : "0",
+								"bitrate" : "400",
+								"parameters" : [],
+								"asset" : {
+									"id" : "9654308",
+									"name" : "Default Asset for Rendition",
+									"contentType" : "video\/mp4-h264",
+									"mimeType" : "video\/mp4",
+									"deliveryMethod" : "progressive"
+								},
+								"otherAssets" : []
+							}
+						],
+						"parameters" : [
+							{
+								"name" : "_fw_advertiser_name",
+								"value" : "Samsung Electronic"
+							},
+							{
+								"name" : "hulu_industry",
+								"value" : "Retail- Consumer Electronics Stores:Technology- Phone,Tablet, PC, Accessories:"
+							},
+							{
+								"name" : "moat",
+								"value" : "169843;300653;23688010;23688013;3528058;g6593675;154245709;g518084;1188407;23688011;22200;169843"
+							},
+							{
+								"name" : "moat_callback",
+								"value" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=23688014&reid=9734067&arid=0&iw=&uxnw=&uxss=&uxct=&absid=&trigid=&et=i&cn=concreteEvent"
+							},
+							{
+								"name" : "moat_on_youtube",
+								"value" : "169843;169843;300653;23688010;23688011;5050159;23688013;22200;g6593675;g518084;1188407;154245709;TELE_ANV_3694641;3528058;9734067;15;preroll;;169843:nbcu_live_jsam_moat;cpx-ânonâ;1522781318229184011;"
+							}
+						]
+					}
+				]
+			},
+			{
+				"adId" : "23803113",
+				"noPreload" : false,
+				"noLoad" : false,
+				"adUnit" : "22200",
+				"isWrapper" : false,
+				"required" : false,
+				"creatives" : [
+					{
+						"creativeId" : "3534289",
+						"baseUnit" : "video",
+						"duration" : "15",
+						"creativeRenditions" : [
+							{
+								"creativeRenditionId" : "9763542",
+								"wrapperType" : "external\/vast-2",
+								"wrapperUrl" : "https:\/\/rtr.innovid.com\/r1.5abe76433f88b0.48218166;cb=1365110265?dipn=deviceid&deviceid=&ivc_deviceid_raw=",
+								"creativeApi" : "VPAID",
+								"width" : "16",
+								"height" : "9",
+								"preference" : "0",
+								"adReplicaId" : "0",
+								"parameters" : [],
+								"asset" : {
+									"id" : "9683750",
+									"name" : "Default Asset for Rendition",
+									"contentType" : "text\/js_ref",
+									"mimeType" : "text\/javascript",
+									"deliveryMethod" : "progressive"
+								},
+								"otherAssets" : []
+							}
+						],
+						"parameters" : [
+							{
+								"name" : "_fw_advertiser_name",
+								"value" : "Procter & Gamble"
+							},
+							{
+								"name" : "hulu_industry",
+								"value" : "CPG- Beauty:CPG- Food & Snacks:CPG- Home Care:"
+							},
+							{
+								"name" : "moat",
+								"value" : "169843;51496;23108384;23803112;3534289;g6593675;154245709;g518084;1188407;23108385;22200;169843"
+							},
+							{
+								"name" : "moat_callback",
+								"value" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=23803113&reid=9763542&arid=0&iw=&uxnw=&uxss=&uxct=&absid=&trigid=&et=i&cn=concreteEvent"
+							},
+							{
+								"name" : "moat_on_youtube",
+								"value" : "169843;169843;51496;23108384;23108385;5043792;23803112;22200;g6593675;g518084;1188407;154245709;TELE_ANV_3694641;3534289;9763542;15;preroll;;169843:nbcu_live_jsam_moat;cpx-ânonâ;1522781318229184011;"
+							}
+						]
+					}
+				]
+			},
+			{
+				"adId" : "23809033",
+				"noPreload" : false,
+				"noLoad" : false,
+				"adUnit" : "22200",
+				"isWrapper" : false,
+				"required" : false,
+				"creatives" : [
+					{
+						"creativeId" : "3537094",
+						"baseUnit" : "video",
+						"duration" : "15",
+						"creativeRenditions" : [
+							{
+								"creativeRenditionId" : "9775832",
+								"wrapperType" : "external\/vast-2",
+								"wrapperUrl" : "https:\/\/ad.doubleclick.net\/ddm\/pfadx\/N369804.112346TELEMUNDO.COM\/B20618692.217977025;sz=0x0;ord=1086277841;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;dcmt=text\/xml",
+								"creativeApi" : "None",
+								"width" : "640",
+								"height" : "360",
+								"preference" : "0",
+								"adReplicaId" : "0",
+								"bitrate" : "280",
+								"parameters" : [],
+								"asset" : {
+									"id" : "9696029",
+									"name" : "Default Asset for Rendition",
+									"contentType" : "video\/mp4-h264",
+									"mimeType" : "video\/mp4",
+									"deliveryMethod" : "progressive"
+								},
+								"otherAssets" : []
+							},
+							{
+								"creativeRenditionId" : "9775833",
+								"wrapperType" : "external\/vast-2",
+								"wrapperUrl" : "https:\/\/ad.doubleclick.net\/ddm\/pfadx\/N369804.112346TELEMUNDO.COM\/B20618692.217977025;sz=0x0;ord=1086277841;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;dcmt=text\/xml",
+								"creativeApi" : "None",
+								"width" : "640",
+								"height" : "360",
+								"preference" : "0",
+								"bitrate" : "388",
+								"parameters" : [],
+								"asset" : {
+									"id" : "9696030",
+									"name" : "Default Asset for Rendition",
+									"contentType" : "video\/mp4-h264",
+									"mimeType" : "video\/mp4",
+									"deliveryMethod" : "progressive"
+								},
+								"otherAssets" : []
+							}
+						],
+						"parameters" : [
+							{
+								"name" : "_fw_advertiser_name",
+								"value" : "McDonald's Corp"
+							},
+							{
+								"name" : "hulu_industry",
+								"value" : "Restaurant- Casual Dining:Restaurant- QSR:"
+							},
+							{
+								"name" : "moat",
+								"value" : "169843;51493;23809023;23809032;3537094;g6593675;154245709;g518084;1188407;23809024;22200;169843"
+							},
+							{
+								"name" : "moat_callback",
+								"value" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=23809033&reid=9775832&arid=0&iw=&uxnw=&uxss=&uxct=&absid=&trigid=&et=i&cn=concreteEvent"
+							},
+							{
+								"name" : "moat_on_youtube",
+								"value" : "169843;169843;51493;23809023;23809024;5050328;23809032;22200;g6593675;g518084;1188407;154245709;TELE_ANV_3694641;3537094;9775832;15;preroll;;169843:nbcu_live_jsam_moat;cpx-ânonâ;1522781318229184011;"
+							}
+						]
+					}
+				]
+			},
+			{
+				"adId" : "23809039",
+				"noPreload" : false,
+				"noLoad" : false,
+				"adUnit" : "22200",
+				"isWrapper" : false,
+				"required" : false,
+				"creatives" : [
+					{
+						"creativeId" : "3537105",
+						"baseUnit" : "video",
+						"duration" : "15",
+						"creativeRenditions" : [
+							{
+								"creativeRenditionId" : "9775880",
+								"wrapperType" : "external\/vast-2",
+								"wrapperUrl" : "https:\/\/ad.doubleclick.net\/ddm\/pfadx\/N369804.112346TELEMUNDO.COM\/B20618692.218139546;sz=0x0;ord=1246010494;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;dcmt=text\/xml",
+								"creativeApi" : "None",
+								"width" : "640",
+								"height" : "360",
+								"preference" : "0",
+								"adReplicaId" : "0",
+								"bitrate" : "284",
+								"parameters" : [],
+								"asset" : {
+									"id" : "9696077",
+									"name" : "Default Asset for Rendition",
+									"contentType" : "video\/mp4-h264",
+									"mimeType" : "video\/mp4",
+									"deliveryMethod" : "progressive"
+								},
+								"otherAssets" : []
+							},
+							{
+								"creativeRenditionId" : "9775881",
+								"wrapperType" : "external\/vast-2",
+								"wrapperUrl" : "https:\/\/ad.doubleclick.net\/ddm\/pfadx\/N369804.112346TELEMUNDO.COM\/B20618692.218139546;sz=0x0;ord=1246010494;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;dcmt=text\/xml",
+								"creativeApi" : "None",
+								"width" : "640",
+								"height" : "360",
+								"preference" : "0",
+								"bitrate" : "389",
+								"parameters" : [],
+								"asset" : {
+									"id" : "9696078",
+									"name" : "Default Asset for Rendition",
+									"contentType" : "video\/mp4-h264",
+									"mimeType" : "video\/mp4",
+									"deliveryMethod" : "progressive"
+								},
+								"otherAssets" : []
+							}
+						],
+						"parameters" : [
+							{
+								"name" : "_fw_advertiser_name",
+								"value" : "McDonald's Corp"
+							},
+							{
+								"name" : "hulu_industry",
+								"value" : "Restaurant- Casual Dining:Restaurant- QSR:"
+							},
+							{
+								"name" : "moat",
+								"value" : "169843;51493;23809023;23809038;3537105;g6593675;154245709;g518084;1188407;23809024;22200;169843"
+							},
+							{
+								"name" : "moat_callback",
+								"value" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=23809039&reid=9775880&arid=0&iw=&uxnw=&uxss=&uxct=&absid=&trigid=&et=i&cn=concreteEvent"
+							},
+							{
+								"name" : "moat_on_youtube",
+								"value" : "169843;169843;51493;23809023;23809024;5050328;23809038;22200;g6593675;g518084;1188407;154245709;TELE_ANV_3694641;3537105;9775880;15;preroll;;169843:nbcu_live_jsam_moat;cpx-ânonâ;1522781318229184011;"
+							}
+						]
+					}
+				]
+			},
+			{
+				"adId" : "21674089",
+				"noPreload" : false,
+				"noLoad" : false,
+				"adUnit" : "22200",
+				"isWrapper" : false,
+				"required" : false,
+				"creatives" : [
+					{
+						"creativeId" : "3534123",
+						"baseUnit" : "video",
+						"duration" : "30",
+						"creativeRenditions" : [
+							{
+								"creativeRenditionId" : "9762948",
+								"wrapperType" : "external\/vast-2",
+								"wrapperUrl" : "https:\/\/rtr.innovid.com\/r1.5abe353ab99889.44469772;cb=1653574107?dipn=deviceid&deviceid=&ivc_deviceid_raw=",
+								"creativeApi" : "None",
+								"width" : "640",
+								"height" : "360",
+								"preference" : "0",
+								"adReplicaId" : "0",
+								"bitrate" : "800",
+								"parameters" : [],
+								"asset" : {
+									"id" : "9683157",
+									"name" : "Default Asset for Rendition",
+									"contentType" : "video\/mp4-h264",
+									"mimeType" : "video\/mp4",
+									"deliveryMethod" : "progressive"
+								},
+								"otherAssets" : []
+							},
+							{
+								"creativeRenditionId" : "9762950",
+								"wrapperType" : "external\/vast-2",
+								"wrapperUrl" : "https:\/\/rtr.innovid.com\/r1.5abe353ab99889.44469772;cb=1653574107?dipn=deviceid&deviceid=&ivc_deviceid_raw=",
+								"creativeApi" : "None",
+								"width" : "640",
+								"height" : "360",
+								"preference" : "0",
+								"bitrate" : "400",
+								"parameters" : [],
+								"asset" : {
+									"id" : "9683159",
+									"name" : "Default Asset for Rendition",
+									"contentType" : "video\/mp4-h264",
+									"mimeType" : "video\/mp4",
+									"deliveryMethod" : "progressive"
+								},
+								"otherAssets" : []
+							},
+							{
+								"creativeRenditionId" : "9762951",
+								"wrapperType" : "external\/vast-2",
+								"wrapperUrl" : "https:\/\/rtr.innovid.com\/r1.5abe353ab99889.44469772;cb=1653574107?dipn=deviceid&deviceid=&ivc_deviceid_raw=",
+								"creativeApi" : "None",
+								"width" : "640",
+								"height" : "360",
+								"preference" : "0",
+								"bitrate" : "700",
+								"parameters" : [],
+								"asset" : {
+									"id" : "9683160",
+									"name" : "Default Asset for Rendition",
+									"contentType" : "video\/mp4-h264",
+									"mimeType" : "video\/mp4",
+									"deliveryMethod" : "progressive"
+								},
+								"otherAssets" : []
+							},
+							{
+								"creativeRenditionId" : "9762952",
+								"wrapperType" : "external\/vast-2",
+								"wrapperUrl" : "https:\/\/rtr.innovid.com\/r1.5abe353ab99889.44469772;cb=1653574107?dipn=deviceid&deviceid=&ivc_deviceid_raw=",
+								"creativeApi" : "None",
+								"width" : "640",
+								"height" : "360",
+								"preference" : "0",
+								"bitrate" : "400",
+								"parameters" : [],
+								"asset" : {
+									"id" : "9683161",
+									"name" : "Default Asset for Rendition",
+									"contentType" : "video\/mp4-h264",
+									"mimeType" : "video\/mp4",
+									"deliveryMethod" : "progressive"
+								},
+								"otherAssets" : []
+							}
+						],
+						"parameters" : [
+							{
+								"name" : "_fw_advertiser_name",
+								"value" : "Walt Disney Parks & Resorts"
+							},
+							{
+								"name" : "hulu_industry",
+								"value" : "Travel- Airlines, Car Rental, Travel Services:Travel- Hotels, Casinos & Resorts:"
+							},
+							{
+								"name" : "moat",
+								"value" : "169843;51501;21674075;21674088;3534123;g6593675;154245709;g518084;1188407;21674076;22200;169843"
+							},
+							{
+								"name" : "moat_callback",
+								"value" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=21674089&reid=9762948&arid=0&iw=&uxnw=&uxss=&uxct=&absid=&trigid=&et=i&cn=concreteEvent"
+							},
+							{
+								"name" : "moat_on_youtube",
+								"value" : "169843;169843;51501;21674075;21674076;5044294;21674088;22200;g6593675;g518084;1188407;154245709;TELE_ANV_3694641;3534123;9762948;30;preroll;;169843:nbcu_live_jsam_moat;cpx-ânonâ;1522781318229184011;"
+							}
+						]
+					}
+				]
+			},
+			{
+				"adId" : "21674093",
+				"noPreload" : false,
+				"noLoad" : false,
+				"adUnit" : "22200",
+				"isWrapper" : false,
+				"required" : false,
+				"creatives" : [
+					{
+						"creativeId" : "3053446",
+						"baseUnit" : "video",
+						"duration" : "30",
+						"creativeRenditions" : [
+							{
+								"creativeRenditionId" : "8292788",
+								"wrapperType" : "external\/vast-2",
+								"wrapperUrl" : "https:\/\/rtr.innovid.com\/r1.59d4c6f548c219.49059917;cb=577322292?dipn=deviceid&deviceid=&ivc_deviceid_raw=",
+								"creativeApi" : "VPAID",
+								"width" : "16",
+								"height" : "9",
+								"preference" : "0",
+								"adReplicaId" : "0",
+								"parameters" : [],
+								"asset" : {
+									"id" : "8215448",
+									"name" : "Default Asset for Rendition",
+									"contentType" : "text\/js_ref",
+									"mimeType" : "text\/javascript",
+									"deliveryMethod" : "progressive"
+								},
+								"otherAssets" : []
+							}
+						],
+						"parameters" : [
+							{
+								"name" : "_fw_advertiser_name",
+								"value" : "Walt Disney Parks & Resorts"
+							},
+							{
+								"name" : "hulu_industry",
+								"value" : "Travel- Airlines, Car Rental, Travel Services:Travel- Hotels, Casinos & Resorts:"
+							},
+							{
+								"name" : "moat",
+								"value" : "169843;51501;21674075;21674091;3053446;g6593675;154245709;g518084;1188407;21674076;22200;169843"
+							},
+							{
+								"name" : "moat_callback",
+								"value" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=21674093&reid=8292788&arid=0&iw=&uxnw=&uxss=&uxct=&absid=&trigid=&et=i&cn=concreteEvent"
+							},
+							{
+								"name" : "moat_on_youtube",
+								"value" : "169843;169843;51501;21674075;21674076;5044294;21674091;22200;g6593675;g518084;1188407;154245709;TELE_ANV_3694641;3053446;8292788;30;preroll;;169843:nbcu_live_jsam_moat;cpx-ânonâ;1522781318229184011;"
+							}
+						]
+					}
+				]
+			},
+			{
+				"adId" : "22350538",
+				"noPreload" : false,
+				"noLoad" : false,
+				"adUnit" : "22200",
+				"isWrapper" : false,
+				"required" : false,
+				"creatives" : [
+					{
+						"creativeId" : "3172299",
+						"baseUnit" : "video",
+						"duration" : "30",
+						"creativeRenditions" : [
+							{
+								"creativeRenditionId" : "8729244",
+								"wrapperType" : "external\/vast-2",
+								"wrapperUrl" : "https:\/\/ad.doubleclick.net\/ddm\/pfadx\/N5506.150051NBCUNIVERSALTELEMUND\/B20573570.211922787;sz=0x0;ord=763231776;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;dcmt=text\/xml",
+								"creativeApi" : "None",
+								"width" : "640",
+								"height" : "360",
+								"preference" : "0",
+								"adReplicaId" : "0",
+								"bitrate" : "248",
+								"parameters" : [],
+								"asset" : {
+									"id" : "8650665",
+									"name" : "Default Asset for Rendition",
+									"contentType" : "video\/mp4-h264",
+									"mimeType" : "video\/mp4",
+									"deliveryMethod" : "progressive"
+								},
+								"otherAssets" : []
+							},
+							{
+								"creativeRenditionId" : "8729249",
+								"wrapperType" : "external\/vast-2",
+								"wrapperUrl" : "https:\/\/ad.doubleclick.net\/ddm\/pfadx\/N5506.150051NBCUNIVERSALTELEMUND\/B20573570.211922787;sz=0x0;ord=763231776;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;dcmt=text\/xml",
+								"creativeApi" : "None",
+								"width" : "640",
+								"height" : "360",
+								"preference" : "0",
+								"bitrate" : "811",
+								"parameters" : [],
+								"asset" : {
+									"id" : "8650670",
+									"name" : "Default Asset for Rendition",
+									"contentType" : "video\/mp4-h264",
+									"mimeType" : "video\/mp4",
+									"deliveryMethod" : "progressive"
+								},
+								"otherAssets" : []
+							}
+						],
+						"parameters" : [
+							{
+								"name" : "_fw_advertiser_name",
+								"value" : "Intuit Inc"
+							},
+							{
+								"name" : "hulu_industry",
+								"value" : "Financial Services- Consumer Banking:"
+							},
+							{
+								"name" : "moat",
+								"value" : "169843;53115;22350501;22350537;3172299;g6593675;154245709;g518084;1188407;22350502;22200;169843"
+							},
+							{
+								"name" : "moat_callback",
+								"value" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=22350538&reid=8729244&arid=0&iw=&uxnw=&uxss=&uxct=&absid=&trigid=&et=i&cn=concreteEvent"
+							},
+							{
+								"name" : "moat_on_youtube",
+								"value" : "169843;169843;53115;22350501;22350502;5045074;22350537;22200;g6593675;g518084;1188407;154245709;TELE_ANV_3694641;3172299;8729244;30;preroll;;169843:nbcu_live_jsam_moat;cpx-ânonâ;1522781318229184011;"
+							}
+						]
+					}
+				]
+			},
+			{
+				"adId" : "22754101",
+				"noPreload" : false,
+				"noLoad" : false,
+				"adUnit" : "22200",
+				"isWrapper" : false,
+				"required" : false,
+				"creatives" : [
+					{
+						"creativeId" : "3217480",
+						"baseUnit" : "video",
+						"duration" : "30",
+						"creativeRenditions" : [
+							{
+								"creativeRenditionId" : "8903528",
+								"wrapperType" : "external\/vast-2",
+								"wrapperUrl" : "https:\/\/ad.doubleclick.net\/ddm\/pfadx\/N9281.112346TELEMUNDO.COM\/B20286109.205109376;sz=0x0;ord=1123395051;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;dcmt=text\/xml",
+								"creativeApi" : "None",
+								"width" : "640",
+								"height" : "360",
+								"preference" : "0",
+								"adReplicaId" : "0",
+								"bitrate" : "438",
+								"parameters" : [],
+								"asset" : {
+									"id" : "8824570",
+									"name" : "Default Asset for Rendition",
+									"contentType" : "video\/mp4-h264",
+									"mimeType" : "video\/mp4",
+									"deliveryMethod" : "progressive"
+								},
+								"otherAssets" : []
+							},
+							{
+								"creativeRenditionId" : "8903535",
+								"wrapperType" : "external\/vast-2",
+								"wrapperUrl" : "https:\/\/ad.doubleclick.net\/ddm\/pfadx\/N9281.112346TELEMUNDO.COM\/B20286109.205109376;sz=0x0;ord=1123395051;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;dcmt=text\/xml",
+								"creativeApi" : "None",
+								"width" : "640",
+								"height" : "360",
+								"preference" : "0",
+								"bitrate" : "390",
+								"parameters" : [],
+								"asset" : {
+									"id" : "8824577",
+									"name" : "Default Asset for Rendition",
+									"contentType" : "video\/mp4-h264",
+									"mimeType" : "video\/mp4",
+									"deliveryMethod" : "progressive"
+								},
+								"otherAssets" : []
+							}
+						],
+						"parameters" : [
+							{
+								"name" : "_fw_advertiser_name",
+								"value" : "Hyundai Motor Company"
+							},
+							{
+								"name" : "hulu_industry",
+								"value" : "Automotive- Cars, Trucks, Motorcycles:Automotive- Gasoline, Oil, Parts & Services:Other:Travel- Airlines, Car Rental, Travel Services:"
+							},
+							{
+								"name" : "moat",
+								"value" : "169843;53099;22754031;22754100;3217480;g6593675;154245709;g518084;1188407;22754032;22200;169843"
+							},
+							{
+								"name" : "moat_callback",
+								"value" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=22754101&reid=8903528&arid=0&iw=&uxnw=&uxss=&uxct=&absid=&trigid=&et=i&cn=concreteEvent"
+							},
+							{
+								"name" : "moat_on_youtube",
+								"value" : "169843;169843;53099;22754031;22754032;5046577;22754100;22200;g6593675;g518084;1188407;154245709;TELE_ANV_3694641;3217480;8903528;30;preroll;;169843:nbcu_live_jsam_moat;cpx-ânonâ;1522781318229184011;"
+							}
+						]
+					}
+				]
+			},
+			{
+				"adId" : "22994662",
+				"noPreload" : false,
+				"noLoad" : false,
+				"adUnit" : "22200",
+				"isWrapper" : false,
+				"required" : false,
+				"creatives" : [
+					{
+						"creativeId" : "3251137",
+						"baseUnit" : "video",
+						"duration" : "15",
+						"creativeRenditions" : [
+							{
+								"creativeRenditionId" : "9037653",
+								"wrapperType" : "external\/vast-2",
+								"wrapperUrl" : "https:\/\/ad.doubleclick.net\/ddm\/pfadx\/N300005.112346TELEMUNDO.COM\/B20705916.213823687;sz=0x0;ord=2039538706;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;dcmt=text\/xml",
+								"creativeApi" : "None",
+								"width" : "640",
+								"height" : "360",
+								"preference" : "0",
+								"adReplicaId" : "0",
+								"bitrate" : "582",
+								"parameters" : [],
+								"asset" : {
+									"id" : "8958513",
+									"name" : "Default Asset for Rendition",
+									"contentType" : "video\/mp4",
+									"mimeType" : "video\/mp4",
+									"deliveryMethod" : "progressive"
+								},
+								"otherAssets" : []
+							},
+							{
+								"creativeRenditionId" : "9037660",
+								"wrapperType" : "external\/vast-2",
+								"wrapperUrl" : "https:\/\/ad.doubleclick.net\/ddm\/pfadx\/N300005.112346TELEMUNDO.COM\/B20705916.213823687;sz=0x0;ord=2039538706;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;dcmt=text\/xml",
+								"creativeApi" : "None",
+								"width" : "640",
+								"height" : "360",
+								"preference" : "0",
+								"bitrate" : "389",
+								"parameters" : [],
+								"asset" : {
+									"id" : "8958520",
+									"name" : "Default Asset for Rendition",
+									"contentType" : "video\/mp4",
+									"mimeType" : "video\/mp4",
+									"deliveryMethod" : "progressive"
+								},
+								"otherAssets" : []
+							}
+						],
+						"parameters" : [
+							{
+								"name" : "_fw_advertiser_name",
+								"value" : "Walmart"
+							},
+							{
+								"name" : "hulu_industry",
+								"value" : "Retail- Apparel, Accessories & Sporting Goods:Retail- Department & Discount:"
+							},
+							{
+								"name" : "moat",
+								"value" : "169843;51622;22994658;22994661;3251137;g6593675;154245709;g518084;1188407;22994659;22200;169843"
+							},
+							{
+								"name" : "moat_callback",
+								"value" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=22994662&reid=9037653&arid=0&iw=&uxnw=&uxss=&uxct=&absid=&trigid=&et=i&cn=concreteEvent"
+							},
+							{
+								"name" : "moat_on_youtube",
+								"value" : "169843;169843;51622;22994658;22994659;5047580;22994661;22200;g6593675;g518084;1188407;154245709;TELE_ANV_3694641;3251137;9037653;15;preroll;;169843:nbcu_live_jsam_moat;cpx-ânonâ;1522781318229184011;"
+							}
+						]
+					}
+				]
+			},
+			{
+				"adId" : "23107655",
+				"noPreload" : false,
+				"noLoad" : false,
+				"adUnit" : "22200",
+				"isWrapper" : false,
+				"required" : false,
+				"creatives" : [
+					{
+						"creativeId" : "3273339",
+						"baseUnit" : "video",
+						"duration" : "15",
+						"creativeRenditions" : [
+							{
+								"creativeRenditionId" : "9122782",
+								"wrapperType" : "external\/vast-2",
+								"wrapperUrl" : "https:\/\/rtr.innovid.com\/r1.5a7a3145295749.10409206;cb=1270528328?dipn=deviceid&deviceid=&ivc_deviceid_raw=",
+								"creativeApi" : "None",
+								"width" : "640",
+								"height" : "360",
+								"preference" : "0",
+								"adReplicaId" : "0",
+								"bitrate" : "800",
+								"parameters" : [],
+								"asset" : {
+									"id" : "9043548",
+									"name" : "Default Asset for Rendition",
+									"contentType" : "video\/mp4-h264",
+									"mimeType" : "video\/mp4",
+									"deliveryMethod" : "progressive"
+								},
+								"otherAssets" : []
+							},
+							{
+								"creativeRenditionId" : "9122784",
+								"wrapperType" : "external\/vast-2",
+								"wrapperUrl" : "https:\/\/rtr.innovid.com\/r1.5a7a3145295749.10409206;cb=1270528328?dipn=deviceid&deviceid=&ivc_deviceid_raw=",
+								"creativeApi" : "None",
+								"width" : "640",
+								"height" : "360",
+								"preference" : "0",
+								"bitrate" : "400",
+								"parameters" : [],
+								"asset" : {
+									"id" : "9043550",
+									"name" : "Default Asset for Rendition",
+									"contentType" : "video\/mp4-h264",
+									"mimeType" : "video\/mp4",
+									"deliveryMethod" : "progressive"
+								},
+								"otherAssets" : []
+							}
+						],
+						"parameters" : [
+							{
+								"name" : "_fw_advertiser_name",
+								"value" : "Eli Lilly"
+							},
+							{
+								"name" : "hulu_industry",
+								"value" : "Health- Hospitals, Clinics, Medical Treatment:"
+							},
+							{
+								"name" : "moat",
+								"value" : "169843;654614;23107464;23107654;3273339;g6593675;154245709;g518084;1188407;23107465;22200;169843"
+							},
+							{
+								"name" : "moat_callback",
+								"value" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=23107655&reid=9122782&arid=0&iw=&uxnw=&uxss=&uxct=&absid=&trigid=&et=i&cn=concreteEvent"
+							},
+							{
+								"name" : "moat_on_youtube",
+								"value" : "169843;169843;654614;23107464;23107465;5048145;23107654;22200;g6593675;g518084;1188407;154245709;TELE_ANV_3694641;3273339;9122782;15;preroll;;169843:nbcu_live_jsam_moat;cpx-ânonâ;1522781318229184011;"
+							}
+						]
+					}
+				]
+			},
+			{
+				"adId" : "23130107",
+				"noPreload" : false,
+				"noLoad" : false,
+				"adUnit" : "22200",
+				"isWrapper" : false,
+				"required" : false,
+				"creatives" : [
+					{
+						"creativeId" : "3277135",
+						"baseUnit" : "video",
+						"duration" : "30",
+						"creativeRenditions" : [
+							{
+								"creativeRenditionId" : "9136971",
+								"wrapperType" : "external\/vast-2",
+								"wrapperUrl" : "https:\/\/ad.doubleclick.net\/ddm\/pfadx\/N30602.112346TELEMUNDO.COM\/B20734154.214478172;sz=0x0;ord=1181788540;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;dcmt=text\/xml",
+								"creativeApi" : "None",
+								"width" : "640",
+								"height" : "360",
+								"preference" : "0",
+								"adReplicaId" : "0",
+								"bitrate" : "348",
+								"parameters" : [],
+								"asset" : {
+									"id" : "9057698",
+									"name" : "Default Asset for Rendition",
+									"contentType" : "video\/mp4-h264",
+									"mimeType" : "video\/mp4",
+									"deliveryMethod" : "progressive"
+								},
+								"otherAssets" : []
+							},
+							{
+								"creativeRenditionId" : "9136972",
+								"wrapperType" : "external\/vast-2",
+								"wrapperUrl" : "https:\/\/ad.doubleclick.net\/ddm\/pfadx\/N30602.112346TELEMUNDO.COM\/B20734154.214478172;sz=0x0;ord=1181788540;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;dcmt=text\/xml",
+								"creativeApi" : "None",
+								"width" : "640",
+								"height" : "360",
+								"preference" : "0",
+								"bitrate" : "667",
+								"parameters" : [],
+								"asset" : {
+									"id" : "9057699",
+									"name" : "Default Asset for Rendition",
+									"contentType" : "video\/mp4-h264",
+									"mimeType" : "video\/mp4",
+									"deliveryMethod" : "progressive"
+								},
+								"otherAssets" : []
+							}
+						],
+						"parameters" : [
+							{
+								"name" : "_fw_advertiser_name",
+								"value" : "Lexus"
+							},
+							{
+								"name" : "hulu_industry",
+								"value" : "Automotive- Cars, Trucks, Motorcycles:Automotive- Gasoline, Oil, Parts & Services:Other:Travel- Airlines, Car Rental, Travel Services:"
+							},
+							{
+								"name" : "moat",
+								"value" : "169843;53070;23130100;23130106;3277135;g6593675;154245709;g518084;1188407;23130101;22200;169843"
+							},
+							{
+								"name" : "moat_callback",
+								"value" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=23130107&reid=9136971&arid=0&iw=&uxnw=&uxss=&uxct=&absid=&trigid=&et=i&cn=concreteEvent"
+							},
+							{
+								"name" : "moat_on_youtube",
+								"value" : "169843;169843;53070;23130100;23130101;5046405;23130106;22200;g6593675;g518084;1188407;154245709;TELE_ANV_3694641;3277135;9136971;30;preroll;;169843:nbcu_live_jsam_moat;cpx-ânonâ;1522781318229184011;"
+							}
+						]
+					}
+				]
+			},
+			{
+				"adId" : "23586518",
+				"noPreload" : false,
+				"noLoad" : false,
+				"adUnit" : "22200",
+				"isWrapper" : false,
+				"required" : false,
+				"creatives" : [
+					{
+						"creativeId" : "3356037",
+						"baseUnit" : "video",
+						"duration" : "29",
+						"creativeRenditions" : [
+							{
+								"creativeRenditionId" : "9476622",
+								"wrapperType" : "external\/vast-2",
+								"wrapperUrl" : "https:\/\/ad.doubleclick.net\/ddm\/pfadx\/N783065.2729602TELEMUNDO\/B20715213.217140849;sz=0x0;ord=413941922;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;dcmt=text\/xml",
+								"creativeApi" : "None",
+								"width" : "640",
+								"height" : "360",
+								"preference" : "0",
+								"adReplicaId" : "0",
+								"bitrate" : "398",
+								"parameters" : [],
+								"asset" : {
+									"id" : "9396964",
+									"name" : "Default Asset for Rendition",
+									"contentType" : "video\/mp4-h264",
+									"mimeType" : "video\/mp4",
+									"deliveryMethod" : "progressive"
+								},
+								"otherAssets" : []
+							},
+							{
+								"creativeRenditionId" : "9476629",
+								"wrapperType" : "external\/vast-2",
+								"wrapperUrl" : "https:\/\/ad.doubleclick.net\/ddm\/pfadx\/N783065.2729602TELEMUNDO\/B20715213.217140849;sz=0x0;ord=413941922;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;dcmt=text\/xml",
+								"creativeApi" : "None",
+								"width" : "640",
+								"height" : "360",
+								"preference" : "0",
+								"bitrate" : "389",
+								"parameters" : [],
+								"asset" : {
+									"id" : "9396971",
+									"name" : "Default Asset for Rendition",
+									"contentType" : "video\/mp4-h264",
+									"mimeType" : "video\/mp4",
+									"deliveryMethod" : "progressive"
+								},
+								"otherAssets" : []
+							}
+						],
+						"parameters" : [
+							{
+								"name" : "_fw_advertiser_name",
+								"value" : "Paramount Pictures"
+							},
+							{
+								"name" : "hulu_industry",
+								"value" : "Entertainment- Theatrical Release:"
+							},
+							{
+								"name" : "moat",
+								"value" : "169843;53236;23586514;23586517;3356037;g6593675;154245709;g518084;1188407;23586515;22200;169843"
+							},
+							{
+								"name" : "moat_callback",
+								"value" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=23586518&reid=9476622&arid=0&iw=&uxnw=&uxss=&uxct=&absid=&trigid=&et=i&cn=concreteEvent"
+							},
+							{
+								"name" : "moat_on_youtube",
+								"value" : "169843;169843;53236;23586514;23586515;5049754;23586517;22200;g6593675;g518084;1188407;154245709;TELE_ANV_3694641;3356037;9476622;29;preroll;;169843:nbcu_live_jsam_moat;cpx-ânonâ;1522781318229184011;"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"siteSection" : {
+		"customId" : "telemundo_homepage_vod",
+		"pageRandom" : "5915",
+		"videoPlayer" : {
+			"videoAsset" : {
+				"eventCallbacks" : [
+					{
+						"url" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&cn=videoView&et=i&uxnw=&uxss=&uxct=",
+						"name" : "videoView",
+						"type" : "IMPRESSION",
+						"use" : "OVERRIDE",
+						"showBrowser" : false,
+						"trackingUrls" : []
+					}
+				],
+				"customId" : "TELE_ANV_3694641",
+				"random" : "4549",
+				"adSlots" : [
+					{
+						"eventCallbacks" : [
+							{
+								"url" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&cn=slotImpression&et=i&tpos=0&init=1&slid=0,1",
+								"name" : "slotImpression",
+								"type" : "IMPRESSION",
+								"use" : "OVERRIDE",
+								"showBrowser" : false,
+								"trackingUrls" : []
+							},
+							{
+								"url" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&cn=slotEnd&et=i&tpos=0&init=1&slid=0,1",
+								"name" : "slotEnd",
+								"type" : "IMPRESSION",
+								"use" : "OVERRIDE",
+								"showBrowser" : false,
+								"trackingUrls" : []
+							}
+						],
+						"customId" : "0.0.0.588701822",
+						"compatibleDimensions" : "1440,900",
+						"selectedAds" : [
+							{
+								"eventCallbacks" : [
+									{
+										"url" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=23688014&reid=9734067&arid=0&iw=&uxnw=&uxss=&uxct=",
+										"type" : "GENERIC",
+										"use" : "BASE",
+										"showBrowser" : false,
+										"trackingUrls" : []
+									},
+									{
+										"url" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=23688014&reid=9734067&arid=0&auid=&cn=defaultImpression&et=i&_cc=23688014,9734067,,,1522781318,1&tpos=0&iw=&uxnw=&uxss=&uxct=&init=1&cr=",
+										"name" : "defaultImpression",
+										"type" : "IMPRESSION",
+										"use" : "OVERRIDE",
+										"showBrowser" : false,
+										"trackingUrls" : [
+											{
+												"name" : "defaultImpression",
+												"value" : "http:\/\/b.scorecardresearch.com\/p?c1=3&c2=15858328&c3=23688010&c4=1188407&c5=23688014&c7=http%3A\/\/player.theplatform.com\/p\/0L7ZPC\/2Ebwsgm4BTLn\/embed\/select\/2u6L1LkPVoqu%3FsiteSectionId%3Dtelemundo_homepage_vod%26autoPlay%3Dtrue&c9=http%3A\/\/player.theplatform.com\/p\/0L7ZPC\/2Ebwsgm4BTLn\/embed\/select\/2u6L1LkPVoqu%3FsiteSectionId%3Dtelemundo_homepage_vod%26autoPlay%3Dtrue&c10=1&c11=23688013&c13=640x360&c16=fw|rollup&tt=15&pp=preroll&ns_ap_ip=50.203.232.252&cj=1&ax_fwd=1&rn=1430719942"
+											}
+										]
+									},
+									{
+										"url" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=23688014&reid=9734067&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&cr=",
+										"name" : "defaultClick",
+										"type" : "CLICK",
+										"use" : "OVERRIDE",
+										"showBrowser" : false,
+										"trackingUrls" : []
+									}
+								],
+								"adId" : "23688014",
+								"creativeId" : "3528058",
+								"replicaId" : "0",
+								"networkId" : "169843",
+								"creativeRenditionId" : "9734067",
+								"companionAds" : [],
+								"fallbackAds" : [
+									{
+										"eventCallbacks" : [
+											{
+												"url" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=23586518&reid=9476622&arid=0&iw=&uxnw=&uxss=&uxct=",
+												"type" : "GENERIC",
+												"use" : "BASE",
+												"showBrowser" : false,
+												"trackingUrls" : []
+											},
+											{
+												"url" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=23586518&reid=9476622&arid=0&auid=&cn=defaultImpression&et=i&_cc=23586518,9476622,,,1522781318,1&tpos=0&iw=&uxnw=&uxss=&uxct=&init=1&cr=",
+												"name" : "defaultImpression",
+												"type" : "IMPRESSION",
+												"use" : "OVERRIDE",
+												"showBrowser" : false,
+												"trackingUrls" : []
+											},
+											{
+												"url" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=23586518&reid=9476622&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&cr=",
+												"name" : "defaultClick",
+												"type" : "CLICK",
+												"use" : "OVERRIDE",
+												"showBrowser" : false,
+												"trackingUrls" : []
+											}
+										],
+										"adId" : "23586518",
+										"creativeId" : "3356037",
+										"replicaId" : "0",
+										"networkId" : "169843",
+										"creativeRenditionId" : "9476622",
+										"companionAds" : [],
+										"fallbackAds" : []
+									},
+									{
+										"eventCallbacks" : [
+											{
+												"url" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=23130107&reid=9136971&arid=0&iw=&uxnw=&uxss=&uxct=",
+												"type" : "GENERIC",
+												"use" : "BASE",
+												"showBrowser" : false,
+												"trackingUrls" : []
+											},
+											{
+												"url" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=23130107&reid=9136971&arid=0&auid=&cn=defaultImpression&et=i&_cc=23130107,9136971,,,1522781318,1&tpos=0&iw=&uxnw=&uxss=&uxct=&init=1&cr=",
+												"name" : "defaultImpression",
+												"type" : "IMPRESSION",
+												"use" : "OVERRIDE",
+												"showBrowser" : false,
+												"trackingUrls" : []
+											},
+											{
+												"url" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=23130107&reid=9136971&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&cr=",
+												"name" : "defaultClick",
+												"type" : "CLICK",
+												"use" : "OVERRIDE",
+												"showBrowser" : false,
+												"trackingUrls" : []
+											}
+										],
+										"adId" : "23130107",
+										"creativeId" : "3277135",
+										"replicaId" : "0",
+										"networkId" : "169843",
+										"creativeRenditionId" : "9136971",
+										"companionAds" : [],
+										"fallbackAds" : []
+									},
+									{
+										"eventCallbacks" : [
+											{
+												"url" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=23107655&reid=9122782&arid=0&iw=&uxnw=&uxss=&uxct=",
+												"type" : "GENERIC",
+												"use" : "BASE",
+												"showBrowser" : false,
+												"trackingUrls" : []
+											},
+											{
+												"url" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=23107655&reid=9122782&arid=0&auid=&cn=defaultImpression&et=i&_cc=23107655,9122782,,,1522781318,1&tpos=0&iw=&uxnw=&uxss=&uxct=&init=1&cr=",
+												"name" : "defaultImpression",
+												"type" : "IMPRESSION",
+												"use" : "OVERRIDE",
+												"showBrowser" : false,
+												"trackingUrls" : []
+											},
+											{
+												"url" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=23107655&reid=9122782&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&cr=",
+												"name" : "defaultClick",
+												"type" : "CLICK",
+												"use" : "OVERRIDE",
+												"showBrowser" : false,
+												"trackingUrls" : []
+											}
+										],
+										"adId" : "23107655",
+										"creativeId" : "3273339",
+										"replicaId" : "0",
+										"networkId" : "169843",
+										"creativeRenditionId" : "9122782",
+										"companionAds" : [],
+										"fallbackAds" : []
+									},
+									{
+										"eventCallbacks" : [
+											{
+												"url" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=22994662&reid=9037653&arid=0&iw=&uxnw=&uxss=&uxct=",
+												"type" : "GENERIC",
+												"use" : "BASE",
+												"showBrowser" : false,
+												"trackingUrls" : []
+											},
+											{
+												"url" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=22994662&reid=9037653&arid=0&auid=&cn=defaultImpression&et=i&_cc=22994662,9037653,,,1522781318,1&tpos=0&iw=&uxnw=&uxss=&uxct=&init=1&cr=",
+												"name" : "defaultImpression",
+												"type" : "IMPRESSION",
+												"use" : "OVERRIDE",
+												"showBrowser" : false,
+												"trackingUrls" : [
+													{
+														"name" : "defaultImpression",
+														"value" : "http:\/\/secure-gl.imrworldwide.com\/cgi-bin\/m?ci=nlsnapi83&am=22&ep=1&at=view&rt=banner&st=image&ca=cmp945236&cr=3251137&pc=p1_169843_22994662_40_unnuevodia;Desktop;&r=1522781318"
+													}
+												]
+											},
+											{
+												"url" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=22994662&reid=9037653&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&cr=",
+												"name" : "defaultClick",
+												"type" : "CLICK",
+												"use" : "OVERRIDE",
+												"showBrowser" : false,
+												"trackingUrls" : []
+											}
+										],
+										"adId" : "22994662",
+										"creativeId" : "3251137",
+										"replicaId" : "0",
+										"networkId" : "169843",
+										"creativeRenditionId" : "9037653",
+										"companionAds" : [],
+										"fallbackAds" : []
+									},
+									{
+										"eventCallbacks" : [
+											{
+												"url" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=22754101&reid=8903528&arid=0&iw=&uxnw=&uxss=&uxct=",
+												"type" : "GENERIC",
+												"use" : "BASE",
+												"showBrowser" : false,
+												"trackingUrls" : []
+											},
+											{
+												"url" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=22754101&reid=8903528&arid=0&auid=&cn=defaultImpression&et=i&_cc=22754101,8903528,,,1522781318,1&tpos=0&iw=&uxnw=&uxss=&uxct=&init=1&cr=",
+												"name" : "defaultImpression",
+												"type" : "IMPRESSION",
+												"use" : "OVERRIDE",
+												"showBrowser" : false,
+												"trackingUrls" : [
+													{
+														"name" : "defaultImpression",
+														"value" : "http:\/\/secure-gl.imrworldwide.com\/cgi-bin\/m?ci=nlsnapi83&am=22&ep=1&at=view&rt=banner&st=image&ca=cmp938814&cr=3217480&pc=p1_169843_22754101_40_unnuevodia;Desktop;&r=1522781318"
+													}
+												]
+											},
+											{
+												"url" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=22754101&reid=8903528&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&cr=",
+												"name" : "defaultClick",
+												"type" : "CLICK",
+												"use" : "OVERRIDE",
+												"showBrowser" : false,
+												"trackingUrls" : []
+											}
+										],
+										"adId" : "22754101",
+										"creativeId" : "3217480",
+										"replicaId" : "0",
+										"networkId" : "169843",
+										"creativeRenditionId" : "8903528",
+										"companionAds" : [],
+										"fallbackAds" : []
+									}
+								]
+							},
+							{
+								"eventCallbacks" : [
+									{
+										"url" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=23803113&reid=9763542&arid=0&iw=&uxnw=&uxss=&uxct=",
+										"type" : "GENERIC",
+										"use" : "BASE",
+										"showBrowser" : false,
+										"trackingUrls" : []
+									},
+									{
+										"url" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=23803113&reid=9763542&arid=0&auid=&cn=defaultImpression&et=i&_cc=23803113,9763542,,,1522781318,1&tpos=0&iw=&uxnw=&uxss=&uxct=&init=1&cr=",
+										"name" : "defaultImpression",
+										"type" : "IMPRESSION",
+										"use" : "OVERRIDE",
+										"showBrowser" : false,
+										"trackingUrls" : []
+									},
+									{
+										"url" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=23803113&reid=9763542&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&cr=",
+										"name" : "defaultClick",
+										"type" : "CLICK",
+										"use" : "OVERRIDE",
+										"showBrowser" : false,
+										"trackingUrls" : []
+									}
+								],
+								"adId" : "23803113",
+								"creativeId" : "3534289",
+								"replicaId" : "0",
+								"networkId" : "169843",
+								"creativeRenditionId" : "9763542",
+								"companionAds" : [],
+								"fallbackAds" : [
+									{
+										"eventCallbacks" : [
+											{
+												"url" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=22350538&reid=8729244&arid=0&iw=&uxnw=&uxss=&uxct=",
+												"type" : "GENERIC",
+												"use" : "BASE",
+												"showBrowser" : false,
+												"trackingUrls" : []
+											},
+											{
+												"url" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=22350538&reid=8729244&arid=0&auid=&cn=defaultImpression&et=i&_cc=22350538,8729244,,,1522781318,1&tpos=0&iw=&uxnw=&uxss=&uxct=&init=1&cr=",
+												"name" : "defaultImpression",
+												"type" : "IMPRESSION",
+												"use" : "OVERRIDE",
+												"showBrowser" : false,
+												"trackingUrls" : []
+											},
+											{
+												"url" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=22350538&reid=8729244&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&cr=",
+												"name" : "defaultClick",
+												"type" : "CLICK",
+												"use" : "OVERRIDE",
+												"showBrowser" : false,
+												"trackingUrls" : []
+											}
+										],
+										"adId" : "22350538",
+										"creativeId" : "3172299",
+										"replicaId" : "0",
+										"networkId" : "169843",
+										"creativeRenditionId" : "8729244",
+										"companionAds" : [],
+										"fallbackAds" : []
+									},
+									{
+										"eventCallbacks" : [
+											{
+												"url" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=21674093&reid=8292788&arid=0&iw=&uxnw=&uxss=&uxct=",
+												"type" : "GENERIC",
+												"use" : "BASE",
+												"showBrowser" : false,
+												"trackingUrls" : []
+											},
+											{
+												"url" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=21674093&reid=8292788&arid=0&auid=&cn=defaultImpression&et=i&_cc=21674093,8292788,,,1522781318,1&tpos=0&iw=&uxnw=&uxss=&uxct=&init=1&cr=",
+												"name" : "defaultImpression",
+												"type" : "IMPRESSION",
+												"use" : "OVERRIDE",
+												"showBrowser" : false,
+												"trackingUrls" : []
+											},
+											{
+												"url" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=21674093&reid=8292788&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&cr=",
+												"name" : "defaultClick",
+												"type" : "CLICK",
+												"use" : "OVERRIDE",
+												"showBrowser" : false,
+												"trackingUrls" : []
+											}
+										],
+										"adId" : "21674093",
+										"creativeId" : "3053446",
+										"replicaId" : "0",
+										"networkId" : "169843",
+										"creativeRenditionId" : "8292788",
+										"companionAds" : [],
+										"fallbackAds" : []
+									},
+									{
+										"eventCallbacks" : [
+											{
+												"url" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=21674089&reid=9762948&arid=0&iw=&uxnw=&uxss=&uxct=",
+												"type" : "GENERIC",
+												"use" : "BASE",
+												"showBrowser" : false,
+												"trackingUrls" : []
+											},
+											{
+												"url" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=21674089&reid=9762948&arid=0&auid=&cn=defaultImpression&et=i&_cc=21674089,9762948,,,1522781318,1&tpos=0&iw=&uxnw=&uxss=&uxct=&init=1&cr=",
+												"name" : "defaultImpression",
+												"type" : "IMPRESSION",
+												"use" : "OVERRIDE",
+												"showBrowser" : false,
+												"trackingUrls" : []
+											},
+											{
+												"url" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=21674089&reid=9762948&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&cr=",
+												"name" : "defaultClick",
+												"type" : "CLICK",
+												"use" : "OVERRIDE",
+												"showBrowser" : false,
+												"trackingUrls" : []
+											}
+										],
+										"adId" : "21674089",
+										"creativeId" : "3534123",
+										"replicaId" : "0",
+										"networkId" : "169843",
+										"creativeRenditionId" : "9762948",
+										"companionAds" : [],
+										"fallbackAds" : []
+									},
+									{
+										"eventCallbacks" : [
+											{
+												"url" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=23809039&reid=9775880&arid=0&iw=&uxnw=&uxss=&uxct=",
+												"type" : "GENERIC",
+												"use" : "BASE",
+												"showBrowser" : false,
+												"trackingUrls" : []
+											},
+											{
+												"url" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=23809039&reid=9775880&arid=0&auid=&cn=defaultImpression&et=i&_cc=23809039,9775880,,,1522781318,1&tpos=0&iw=&uxnw=&uxss=&uxct=&init=1&cr=",
+												"name" : "defaultImpression",
+												"type" : "IMPRESSION",
+												"use" : "OVERRIDE",
+												"showBrowser" : false,
+												"trackingUrls" : []
+											},
+											{
+												"url" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=23809039&reid=9775880&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&cr=",
+												"name" : "defaultClick",
+												"type" : "CLICK",
+												"use" : "OVERRIDE",
+												"showBrowser" : false,
+												"trackingUrls" : []
+											}
+										],
+										"adId" : "23809039",
+										"creativeId" : "3537105",
+										"replicaId" : "0",
+										"networkId" : "169843",
+										"creativeRenditionId" : "9775880",
+										"companionAds" : [],
+										"fallbackAds" : []
+									},
+									{
+										"eventCallbacks" : [
+											{
+												"url" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=23809033&reid=9775832&arid=0&iw=&uxnw=&uxss=&uxct=",
+												"type" : "GENERIC",
+												"use" : "BASE",
+												"showBrowser" : false,
+												"trackingUrls" : []
+											},
+											{
+												"url" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=23809033&reid=9775832&arid=0&auid=&cn=defaultImpression&et=i&_cc=23809033,9775832,,,1522781318,1&tpos=0&iw=&uxnw=&uxss=&uxct=&init=1&cr=",
+												"name" : "defaultImpression",
+												"type" : "IMPRESSION",
+												"use" : "OVERRIDE",
+												"showBrowser" : false,
+												"trackingUrls" : []
+											},
+											{
+												"url" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=23809033&reid=9775832&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&cr=",
+												"name" : "defaultClick",
+												"type" : "CLICK",
+												"use" : "OVERRIDE",
+												"showBrowser" : false,
+												"trackingUrls" : []
+											}
+										],
+										"adId" : "23809033",
+										"creativeId" : "3537094",
+										"replicaId" : "0",
+										"networkId" : "169843",
+										"creativeRenditionId" : "9775832",
+										"companionAds" : [],
+										"fallbackAds" : []
+									}
+								]
+							}
+						],
+						"timePosition" : "0",
+						"timePositionClass" : "preroll",
+						"adUnit" : "Standard Pre",
+						"source" : "generated",
+						"maxDuration" : "63"
+					},
+					{
+						"eventCallbacks" : [
+							{
+								"url" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&cn=slotImpression&et=i&tpos=227&init=1&slid=2,3",
+								"name" : "slotImpression",
+								"type" : "IMPRESSION",
+								"use" : "OVERRIDE",
+								"showBrowser" : false,
+								"trackingUrls" : []
+							},
+							{
+								"url" : "http:\/\/29773.v.fwmrm.net\/ad\/l\/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&cn=slotEnd&et=i&tpos=227&init=1&slid=2,3",
+								"name" : "slotEnd",
+								"type" : "IMPRESSION",
+								"use" : "OVERRIDE",
+								"showBrowser" : false,
+								"trackingUrls" : []
+							}
+						],
+						"customId" : "0.1.0.373718721",
+						"compatibleDimensions" : "1440,900",
+						"selectedAds" : [],
+						"timePosition" : "227",
+						"timePositionClass" : "postroll",
+						"adUnit" : "Standard Post",
+						"source" : "generated",
+						"maxDuration" : "63"
+					}
+				]
+			},
+			"adSlots" : []
+		},
+		"adSlots" : []
+	}
+});]]></body></response></transaction>
+<transaction status="COMPLETE" method="GET" protocolVersion="HTTP/1.1" protocol="http" host="29773.v.fwmrm.net" actualPort="80" path="/ad/l/1" query="s=c005&amp;n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&amp;t=1522781318229184011&amp;f=&amp;cn=slotImpression&amp;et=i&amp;tpos=0&amp;init=1&amp;slid=0,1" remoteAddress="29773.v.fwmrm.net/75.98.70.37" clientAddress="/127.0.0.1" clientPort="51508" startTime="2018-04-03T14:48:39.679-04:00" startTimeMillis="1522781319679" requestBeginTime="2018-04-03T14:48:39.693-04:00" requestBeginTimeMillis="1522781319693" requestTime="2018-04-03T14:48:39.694-04:00" requestTimeMillis="1522781319694" responseTime="2018-04-03T14:48:39.710-04:00" responseTimeMillis="1522781319710" endTime="2018-04-03T14:48:39.711-04:00" endTimeMillis="1522781319711" duration="32" dnsDuration="2" connectDuration="12" requestDuration="1" responseDuration="1" latency="16" overallSpeed="90500" requestSpeed="2476000" responseSpeed="420000" totalSize="2896">
+<request headers="2476" body="0">
+<headers>
+<first-line><![CDATA[GET /ad/l/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&cn=slotImpression&et=i&tpos=0&init=1&slid=0,1 HTTP/1.1]]></first-line>
+<header>
+<name>Host</name>
+<value>29773.v.fwmrm.net</value></header>
+<header>
+<name>User-Agent</name>
+<value>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36</value></header>
+<header>
+<name>Accept</name>
+<value>image/webp,image/apng,image/*,*/*;q=0.8</value></header>
+<header>
+<name>Referer</name>
+<value>http://player.theplatform.com/p/0L7ZPC/2Ebwsgm4BTLn/embed/select/2u6L1LkPVoqu?siteSectionId=telemundo_homepage_vod&amp;autoPlay=true</value></header>
+<header>
+<name>Accept-Encoding</name>
+<value>gzip, deflate</value></header>
+<header>
+<name>Accept-Language</name>
+<value>en-US,en;q=0.9</value></header>
+<header>
+<name>Cookie</name>
+<value>_uid=&quot;c048_6535460784372566592&quot;; _stid=&quot;169843.0.1455055434%2C171224.0.1427313294%2C&quot;; _ue=&quot;32829%2C127719%2C381110%2C382039%2C384101%2C386123%2C386261%2C392379&quot;; _ha=&quot;&quot;; _sid=&quot;a190_6540102377004368996&quot;; NSC_ozdbewjq3.gxnsn.ofu*80=ffffffff09091fc345525d5f4f58455e445a4a423209; NSC_ozdbewjq4.gxnsn.ofu*80=ffffffff09091a3c45525d5f4f58455e445a4a423209; NSC_btibewjq1.gxnsn.ofu*80=ffffffff09091c3745525d5f4f58455e445a4a423208; NSC_btibewjq2.gxnsn.ofu*80=ffffffff09091c3245525d5f4f58455e445a4a423208; _av=&quot;1522778317.23721454.60%2C&quot;; _cvr=&quot;1522778394%5E169843%5Esg502899%7Esg504688%5E1%7E1%5E60.000000%7E17.000000%2C&quot;; _wr=&quot;g487571&quot;; _auv=&quot;g487571%7E1.1522781091.121%2C22200.1522781091.121%2C%5Eg502899%7E1.1522778332.60%2C22200.1522778332.60%2C%5E&quot;; _cph=&quot;1522781318.5448.1.1%2C1522778308.15562.1.1%2C&quot;; _sc=&quot;sg487571.1522780811.1522781318.3600.121.119%2Csg502899.1522778308.1522781318.28800.60.12%2C&quot;; _vr=&quot;1522781318.4549.21674089%7E21674093%7E22350538%7E22754101%7E22994662%7E23107655%7E23130107%7E23586518%7E23688014%7E23803113%7E23809033%7E23809039%7E%2C1522781056.752.21674093%7E22994662%7E23107655%7E23688014%7E23724722%7E23742613%7E23757618%7E23757817%7E23793047%7E23803113%7E23809033%7E23809039%7E%2C1522780988.2159.21674093%7E22994662%7E23107655%7E23688014%7E23724722%7E23742613%7E23757618%7E23757817%7E23793047%7E23803113%7E23809033%7E23809039%7E%2C1522780898.747.21674093%7E22994662%7E23107655%7E23688014%7E23724722%7E23742613%7E23757618%7E23757817%7E23793047%7E23803113%7E23809033%7E23809039%7E%2C1522780811.7821.21674093%7E22994662%7E23107655%7E23688014%7E23724722%7E23742613%7E23757618%7E23757817%7E23793047%7E23803113%7E23809033%7E23809039%7E%2C1522778308.3121.17979008%7E22590296%7E23721455%7E%2C1522767392.5507.19521268%7E22994662%7E23674414%7E23688014%7E23707327%7E23719746%7E23724722%7E23742613%7E23757522%7E23757598%7E23757618%7E23803113%7E%2C&quot;</value></header></headers></request>
+<response status="200" headers="420" body="0" mime-type="text/html">
+<headers>
+<first-line><![CDATA[HTTP/1.1 200 OK]]></first-line>
+<header>
+<name>Set-Cookie</name>
+<value>_stid=&quot;169843.0.1455055434%2C171224.0.1427313294%2C&quot;;expires=Wed, 03 Apr 2019 18:48:39 GMT;domain=.fwmrm.net;path=/;</value></header>
+<header>
+<name>Set-Cookie</name>
+<value>_sc=&quot;sg487571.1522780811.1522781319.3600.121.119%2Csg502899.1522778308.1522781319.28800.60.12%2C&quot;;expires=Thu, 03 May 2018 18:48:39 GMT;domain=.fwmrm.net;path=/;</value></header>
+<header>
+<name>Content-Type</name>
+<value>text/html</value></header>
+<header>
+<name>Content-Length</name>
+<value>0</value></header>
+<header>
+<name>Expires</name>
+<value>0</value></header>
+<header>
+<name>Pragma</name>
+<value>no-cache</value></header>
+<header>
+<name>Cache-Control</name>
+<value>no-store</value></header>
+<header>
+<name>Date</name>
+<value>Tue, 03 Apr 2018 18:48:38 GMT</value></header>
+<header>
+<name>Server</name>
+<value>FWS</value></header>
+<header>
+<name>P3P</name>
+<value>policyref=&quot;http://www.freewheel.tv/w3c/p3p.xml&quot;,CP=&quot;ALL DSP COR NID&quot;</value></header>
+<header>
+<name>Proxy-Connection</name>
+<value>Keep-alive</value></header></headers>
+<body><![CDATA[]]></body></response></transaction>
+<transaction status="COMPLETE" method="GET" protocolVersion="HTTP/1.1" protocol="http" host="29773.v.fwmrm.net" actualPort="80" path="/ad/l/1" query="metr=47&amp;s=c005&amp;n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&amp;t=1522781318229184011&amp;f=&amp;r=169843&amp;adid=23688014&amp;reid=9734067&amp;arid=0&amp;auid=&amp;cn=defaultImpression&amp;et=i&amp;_cc=23688014,9734067,,,1522781318,1&amp;tpos=0&amp;iw=&amp;uxnw=&amp;uxss=&amp;uxct=&amp;init=1&amp;cr=" remoteAddress="29773.v.fwmrm.net/75.98.70.37" clientAddress="/127.0.0.1" clientPort="51617" startTime="2018-04-03T14:48:41.466-04:00" startTimeMillis="1522781321466" requestBeginTime="2018-04-03T14:48:41.485-04:00" requestBeginTimeMillis="1522781321485" requestTime="2018-04-03T14:48:41.486-04:00" requestTimeMillis="1522781321486" responseTime="2018-04-03T14:48:41.503-04:00" responseTimeMillis="1522781321503" endTime="2018-04-03T14:48:41.504-04:00" endTimeMillis="1522781321504" duration="38" dnsDuration="3" connectDuration="16" requestDuration="1" responseDuration="1" latency="17" overallSpeed="84157" requestSpeed="2589000" responseSpeed="609000" totalSize="3198">
+<request headers="2589" body="0">
+<headers>
+<first-line><![CDATA[GET /ad/l/1?metr=47&s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=23688014&reid=9734067&arid=0&auid=&cn=defaultImpression&et=i&_cc=23688014,9734067,,,1522781318,1&tpos=0&iw=&uxnw=&uxss=&uxct=&init=1&cr= HTTP/1.1]]></first-line>
+<header>
+<name>Host</name>
+<value>29773.v.fwmrm.net</value></header>
+<header>
+<name>User-Agent</name>
+<value>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36</value></header>
+<header>
+<name>Accept</name>
+<value>image/webp,image/apng,image/*,*/*;q=0.8</value></header>
+<header>
+<name>Referer</name>
+<value>http://player.theplatform.com/p/0L7ZPC/2Ebwsgm4BTLn/embed/select/2u6L1LkPVoqu?siteSectionId=telemundo_homepage_vod&amp;autoPlay=true</value></header>
+<header>
+<name>Accept-Encoding</name>
+<value>gzip, deflate</value></header>
+<header>
+<name>Accept-Language</name>
+<value>en-US,en;q=0.9</value></header>
+<header>
+<name>Cookie</name>
+<value>_uid=&quot;c048_6535460784372566592&quot;; _stid=&quot;169843.0.1455055434%2C171224.0.1427313294%2C&quot;; _ue=&quot;32829%2C127719%2C381110%2C382039%2C384101%2C386123%2C386261%2C392379&quot;; _ha=&quot;&quot;; _sid=&quot;a190_6540102377004368996&quot;; NSC_ozdbewjq3.gxnsn.ofu*80=ffffffff09091fc345525d5f4f58455e445a4a423209; NSC_ozdbewjq4.gxnsn.ofu*80=ffffffff09091a3c45525d5f4f58455e445a4a423209; NSC_btibewjq1.gxnsn.ofu*80=ffffffff09091c3745525d5f4f58455e445a4a423208; NSC_btibewjq2.gxnsn.ofu*80=ffffffff09091c3245525d5f4f58455e445a4a423208; _av=&quot;1522778317.23721454.60%2C&quot;; _cvr=&quot;1522778394%5E169843%5Esg502899%7Esg504688%5E1%7E1%5E60.000000%7E17.000000%2C&quot;; _wr=&quot;g487571&quot;; _auv=&quot;g487571%7E1.1522781091.121%2C22200.1522781091.121%2C%5Eg502899%7E1.1522778332.60%2C22200.1522778332.60%2C%5E&quot;; _cph=&quot;1522781318.5448.1.1%2C1522778308.15562.1.1%2C&quot;; _vr=&quot;1522781318.4549.21674089%7E21674093%7E22350538%7E22754101%7E22994662%7E23107655%7E23130107%7E23586518%7E23688014%7E23803113%7E23809033%7E23809039%7E%2C1522781056.752.21674093%7E22994662%7E23107655%7E23688014%7E23724722%7E23742613%7E23757618%7E23757817%7E23793047%7E23803113%7E23809033%7E23809039%7E%2C1522780988.2159.21674093%7E22994662%7E23107655%7E23688014%7E23724722%7E23742613%7E23757618%7E23757817%7E23793047%7E23803113%7E23809033%7E23809039%7E%2C1522780898.747.21674093%7E22994662%7E23107655%7E23688014%7E23724722%7E23742613%7E23757618%7E23757817%7E23793047%7E23803113%7E23809033%7E23809039%7E%2C1522780811.7821.21674093%7E22994662%7E23107655%7E23688014%7E23724722%7E23742613%7E23757618%7E23757817%7E23793047%7E23803113%7E23809033%7E23809039%7E%2C1522778308.3121.17979008%7E22590296%7E23721455%7E%2C1522767392.5507.19521268%7E22994662%7E23674414%7E23688014%7E23707327%7E23719746%7E23724722%7E23742613%7E23757522%7E23757598%7E23757618%7E23803113%7E%2C&quot;; _sc=&quot;sg487571.1522780811.1522781319.3600.121.119%2Csg502899.1522778308.1522781319.28800.60.12%2C&quot;</value></header></headers></request>
+<response status="200" headers="609" body="0" mime-type="text/html">
+<headers>
+<first-line><![CDATA[HTTP/1.1 200 OK]]></first-line>
+<header>
+<name>Set-Cookie</name>
+<value>_stid=&quot;169843.0.1455055434%2C171224.0.1427313294%2C&quot;;expires=Wed, 03 Apr 2019 18:48:41 GMT;domain=.fwmrm.net;path=/;</value></header>
+<header>
+<name>Set-Cookie</name>
+<value>_auv=&quot;g487571%7E1.1522781321.0%2C22200.1522781321.0%2C%5Eg502899%7E1.1522778332.60%2C22200.1522778332.60%2C%5E&quot;;expires=Thu, 03 May 2018 18:48:41 GMT;domain=.fwmrm.net;path=/;</value></header>
+<header>
+<name>Set-Cookie</name>
+<value>_sc=&quot;sg487571.1522780811.1522781321.3600.121.119%2Csg502899.1522778308.1522781321.28800.60.12%2C&quot;;expires=Thu, 03 May 2018 18:48:41 GMT;domain=.fwmrm.net;path=/;</value></header>
+<header>
+<name>Content-Type</name>
+<value>text/html</value></header>
+<header>
+<name>Content-Length</name>
+<value>0</value></header>
+<header>
+<name>Expires</name>
+<value>0</value></header>
+<header>
+<name>Pragma</name>
+<value>no-cache</value></header>
+<header>
+<name>Cache-Control</name>
+<value>no-store</value></header>
+<header>
+<name>Date</name>
+<value>Tue, 03 Apr 2018 18:48:40 GMT</value></header>
+<header>
+<name>Server</name>
+<value>FWS</value></header>
+<header>
+<name>P3P</name>
+<value>policyref=&quot;http://www.freewheel.tv/w3c/p3p.xml&quot;,CP=&quot;ALL DSP COR NID&quot;</value></header>
+<header>
+<name>Proxy-Connection</name>
+<value>Keep-alive</value></header></headers>
+<body><![CDATA[]]></body></response></transaction>
+<transaction status="COMPLETE" method="GET" protocolVersion="HTTP/1.1" protocol="http" host="29773.v.fwmrm.net" actualPort="80" path="/ad/l/1" query="cn=_mute&amp;et=s&amp;s=c005&amp;n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&amp;t=1522781318229184011&amp;f=&amp;r=169843&amp;adid=23688014&amp;reid=9734067&amp;arid=0&amp;iw=&amp;uxnw=&amp;uxss=&amp;uxct=" remoteAddress="29773.v.fwmrm.net/75.98.70.37" clientAddress="/127.0.0.1" clientPort="51650" startTime="2018-04-03T14:48:41.736-04:00" startTimeMillis="1522781321736" requestBeginTime="2018-04-03T14:48:41.746-04:00" requestBeginTimeMillis="1522781321746" requestTime="2018-04-03T14:48:41.746-04:00" requestTimeMillis="1522781321746" responseTime="2018-04-03T14:48:41.759-04:00" responseTimeMillis="1522781321759" endTime="2018-04-03T14:48:41.760-04:00" endTimeMillis="1522781321760" duration="24" dnsDuration="2" connectDuration="8" requestDuration="0" responseDuration="1" latency="13" overallSpeed="121875" requestSpeed="0" responseSpeed="420000" totalSize="2925">
+<request headers="2505" body="0">
+<headers>
+<first-line><![CDATA[GET /ad/l/1?cn=_mute&et=s&s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=23688014&reid=9734067&arid=0&iw=&uxnw=&uxss=&uxct= HTTP/1.1]]></first-line>
+<header>
+<name>Host</name>
+<value>29773.v.fwmrm.net</value></header>
+<header>
+<name>User-Agent</name>
+<value>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36</value></header>
+<header>
+<name>Accept</name>
+<value>image/webp,image/apng,image/*,*/*;q=0.8</value></header>
+<header>
+<name>Referer</name>
+<value>http://player.theplatform.com/p/0L7ZPC/2Ebwsgm4BTLn/embed/select/2u6L1LkPVoqu?siteSectionId=telemundo_homepage_vod&amp;autoPlay=true</value></header>
+<header>
+<name>Accept-Encoding</name>
+<value>gzip, deflate</value></header>
+<header>
+<name>Accept-Language</name>
+<value>en-US,en;q=0.9</value></header>
+<header>
+<name>Cookie</name>
+<value>_uid=&quot;c048_6535460784372566592&quot;; _stid=&quot;169843.0.1455055434%2C171224.0.1427313294%2C&quot;; _ue=&quot;32829%2C127719%2C381110%2C382039%2C384101%2C386123%2C386261%2C392379&quot;; _ha=&quot;&quot;; _sid=&quot;a190_6540102377004368996&quot;; NSC_ozdbewjq3.gxnsn.ofu*80=ffffffff09091fc345525d5f4f58455e445a4a423209; NSC_ozdbewjq4.gxnsn.ofu*80=ffffffff09091a3c45525d5f4f58455e445a4a423209; NSC_btibewjq1.gxnsn.ofu*80=ffffffff09091c3745525d5f4f58455e445a4a423208; NSC_btibewjq2.gxnsn.ofu*80=ffffffff09091c3245525d5f4f58455e445a4a423208; _av=&quot;1522778317.23721454.60%2C&quot;; _cvr=&quot;1522778394%5E169843%5Esg502899%7Esg504688%5E1%7E1%5E60.000000%7E17.000000%2C&quot;; _wr=&quot;g487571&quot;; _cph=&quot;1522781318.5448.1.1%2C1522778308.15562.1.1%2C&quot;; _vr=&quot;1522781318.4549.21674089%7E21674093%7E22350538%7E22754101%7E22994662%7E23107655%7E23130107%7E23586518%7E23688014%7E23803113%7E23809033%7E23809039%7E%2C1522781056.752.21674093%7E22994662%7E23107655%7E23688014%7E23724722%7E23742613%7E23757618%7E23757817%7E23793047%7E23803113%7E23809033%7E23809039%7E%2C1522780988.2159.21674093%7E22994662%7E23107655%7E23688014%7E23724722%7E23742613%7E23757618%7E23757817%7E23793047%7E23803113%7E23809033%7E23809039%7E%2C1522780898.747.21674093%7E22994662%7E23107655%7E23688014%7E23724722%7E23742613%7E23757618%7E23757817%7E23793047%7E23803113%7E23809033%7E23809039%7E%2C1522780811.7821.21674093%7E22994662%7E23107655%7E23688014%7E23724722%7E23742613%7E23757618%7E23757817%7E23793047%7E23803113%7E23809033%7E23809039%7E%2C1522778308.3121.17979008%7E22590296%7E23721455%7E%2C1522767392.5507.19521268%7E22994662%7E23674414%7E23688014%7E23707327%7E23719746%7E23724722%7E23742613%7E23757522%7E23757598%7E23757618%7E23803113%7E%2C&quot;; _auv=&quot;g487571%7E1.1522781321.0%2C22200.1522781321.0%2C%5Eg502899%7E1.1522778332.60%2C22200.1522778332.60%2C%5E&quot;; _sc=&quot;sg487571.1522780811.1522781321.3600.121.119%2Csg502899.1522778308.1522781321.28800.60.12%2C&quot;</value></header></headers></request>
+<response status="200" headers="420" body="0" mime-type="text/html">
+<headers>
+<first-line><![CDATA[HTTP/1.1 200 OK]]></first-line>
+<header>
+<name>Set-Cookie</name>
+<value>_stid=&quot;169843.0.1455055434%2C171224.0.1427313294%2C&quot;;expires=Wed, 03 Apr 2019 18:48:41 GMT;domain=.fwmrm.net;path=/;</value></header>
+<header>
+<name>Set-Cookie</name>
+<value>_sc=&quot;sg487571.1522780811.1522781321.3600.121.119%2Csg502899.1522778308.1522781321.28800.60.12%2C&quot;;expires=Thu, 03 May 2018 18:48:41 GMT;domain=.fwmrm.net;path=/;</value></header>
+<header>
+<name>Content-Type</name>
+<value>text/html</value></header>
+<header>
+<name>Content-Length</name>
+<value>0</value></header>
+<header>
+<name>Expires</name>
+<value>0</value></header>
+<header>
+<name>Pragma</name>
+<value>no-cache</value></header>
+<header>
+<name>Cache-Control</name>
+<value>no-store</value></header>
+<header>
+<name>Date</name>
+<value>Tue, 03 Apr 2018 18:48:40 GMT</value></header>
+<header>
+<name>Server</name>
+<value>FWS</value></header>
+<header>
+<name>P3P</name>
+<value>policyref=&quot;http://www.freewheel.tv/w3c/p3p.xml&quot;,CP=&quot;ALL DSP COR NID&quot;</value></header>
+<header>
+<name>Proxy-Connection</name>
+<value>Keep-alive</value></header></headers>
+<body><![CDATA[]]></body></response></transaction>
+<transaction status="COMPLETE" method="GET" protocolVersion="HTTP/1.1" protocol="http" host="29773.v.fwmrm.net" actualPort="80" path="/ad/l/1" query="s=c005&amp;n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&amp;t=1522781318229184011&amp;f=&amp;r=169843&amp;adid=23688014&amp;reid=9734067&amp;arid=0&amp;iw=&amp;uxnw=&amp;uxss=&amp;uxct=&amp;absid=&amp;trigid=&amp;et=i&amp;cn=concreteEvent&amp;creid=17&amp;zMoatImpressionId=187872602830&amp;ord=1522781321923" remoteAddress="29773.v.fwmrm.net/75.98.70.37" clientAddress="/127.0.0.1" clientPort="51650" startTime="2018-04-03T14:48:42.046-04:00" startTimeMillis="1522781322046" requestBeginTime="2018-04-03T14:48:42.046-04:00" requestBeginTimeMillis="1522781322046" requestTime="2018-04-03T14:48:42.047-04:00" requestTimeMillis="1522781322047" responseTime="2018-04-03T14:48:42.060-04:00" responseTimeMillis="1522781322060" endTime="2018-04-03T14:48:42.061-04:00" endTimeMillis="1522781322061" duration="15" requestDuration="1" responseDuration="1" latency="13" overallSpeed="200400" requestSpeed="2586000" responseSpeed="420000" totalSize="3006">
+<request headers="2586" body="0">
+<headers>
+<first-line><![CDATA[GET /ad/l/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=23688014&reid=9734067&arid=0&iw=&uxnw=&uxss=&uxct=&absid=&trigid=&et=i&cn=concreteEvent&creid=17&zMoatImpressionId=187872602830&ord=1522781321923 HTTP/1.1]]></first-line>
+<header>
+<name>Host</name>
+<value>29773.v.fwmrm.net</value></header>
+<header>
+<name>User-Agent</name>
+<value>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36</value></header>
+<header>
+<name>Accept</name>
+<value>image/webp,image/apng,image/*,*/*;q=0.8</value></header>
+<header>
+<name>Referer</name>
+<value>http://player.theplatform.com/p/0L7ZPC/2Ebwsgm4BTLn/embed/select/2u6L1LkPVoqu?siteSectionId=telemundo_homepage_vod&amp;autoPlay=true</value></header>
+<header>
+<name>Accept-Encoding</name>
+<value>gzip, deflate</value></header>
+<header>
+<name>Accept-Language</name>
+<value>en-US,en;q=0.9</value></header>
+<header>
+<name>Cookie</name>
+<value>_uid=&quot;c048_6535460784372566592&quot;; _stid=&quot;169843.0.1455055434%2C171224.0.1427313294%2C&quot;; _ue=&quot;32829%2C127719%2C381110%2C382039%2C384101%2C386123%2C386261%2C392379&quot;; _ha=&quot;&quot;; _sid=&quot;a190_6540102377004368996&quot;; NSC_ozdbewjq3.gxnsn.ofu*80=ffffffff09091fc345525d5f4f58455e445a4a423209; NSC_ozdbewjq4.gxnsn.ofu*80=ffffffff09091a3c45525d5f4f58455e445a4a423209; NSC_btibewjq1.gxnsn.ofu*80=ffffffff09091c3745525d5f4f58455e445a4a423208; NSC_btibewjq2.gxnsn.ofu*80=ffffffff09091c3245525d5f4f58455e445a4a423208; _av=&quot;1522778317.23721454.60%2C&quot;; _cvr=&quot;1522778394%5E169843%5Esg502899%7Esg504688%5E1%7E1%5E60.000000%7E17.000000%2C&quot;; _wr=&quot;g487571&quot;; _cph=&quot;1522781318.5448.1.1%2C1522778308.15562.1.1%2C&quot;; _vr=&quot;1522781318.4549.21674089%7E21674093%7E22350538%7E22754101%7E22994662%7E23107655%7E23130107%7E23586518%7E23688014%7E23803113%7E23809033%7E23809039%7E%2C1522781056.752.21674093%7E22994662%7E23107655%7E23688014%7E23724722%7E23742613%7E23757618%7E23757817%7E23793047%7E23803113%7E23809033%7E23809039%7E%2C1522780988.2159.21674093%7E22994662%7E23107655%7E23688014%7E23724722%7E23742613%7E23757618%7E23757817%7E23793047%7E23803113%7E23809033%7E23809039%7E%2C1522780898.747.21674093%7E22994662%7E23107655%7E23688014%7E23724722%7E23742613%7E23757618%7E23757817%7E23793047%7E23803113%7E23809033%7E23809039%7E%2C1522780811.7821.21674093%7E22994662%7E23107655%7E23688014%7E23724722%7E23742613%7E23757618%7E23757817%7E23793047%7E23803113%7E23809033%7E23809039%7E%2C1522778308.3121.17979008%7E22590296%7E23721455%7E%2C1522767392.5507.19521268%7E22994662%7E23674414%7E23688014%7E23707327%7E23719746%7E23724722%7E23742613%7E23757522%7E23757598%7E23757618%7E23803113%7E%2C&quot;; _auv=&quot;g487571%7E1.1522781321.0%2C22200.1522781321.0%2C%5Eg502899%7E1.1522778332.60%2C22200.1522778332.60%2C%5E&quot;; _sc=&quot;sg487571.1522780811.1522781321.3600.121.119%2Csg502899.1522778308.1522781321.28800.60.12%2C&quot;</value></header></headers></request>
+<response status="200" headers="420" body="0" mime-type="text/html">
+<headers>
+<first-line><![CDATA[HTTP/1.1 200 OK]]></first-line>
+<header>
+<name>Set-Cookie</name>
+<value>_stid=&quot;169843.0.1455055434%2C171224.0.1427313294%2C&quot;;expires=Wed, 03 Apr 2019 18:48:42 GMT;domain=.fwmrm.net;path=/;</value></header>
+<header>
+<name>Set-Cookie</name>
+<value>_sc=&quot;sg487571.1522780811.1522781322.3600.121.119%2Csg502899.1522778308.1522781322.28800.60.12%2C&quot;;expires=Thu, 03 May 2018 18:48:42 GMT;domain=.fwmrm.net;path=/;</value></header>
+<header>
+<name>Content-Type</name>
+<value>text/html</value></header>
+<header>
+<name>Content-Length</name>
+<value>0</value></header>
+<header>
+<name>Expires</name>
+<value>0</value></header>
+<header>
+<name>Pragma</name>
+<value>no-cache</value></header>
+<header>
+<name>Cache-Control</name>
+<value>no-store</value></header>
+<header>
+<name>Date</name>
+<value>Tue, 03 Apr 2018 18:48:41 GMT</value></header>
+<header>
+<name>Server</name>
+<value>FWS</value></header>
+<header>
+<name>P3P</name>
+<value>policyref=&quot;http://www.freewheel.tv/w3c/p3p.xml&quot;,CP=&quot;ALL DSP COR NID&quot;</value></header>
+<header>
+<name>Proxy-Connection</name>
+<value>Keep-alive</value></header></headers>
+<body><![CDATA[]]></body></response></transaction>
+<transaction status="COMPLETE" method="GET" protocolVersion="HTTP/1.1" protocol="http" host="29773.v.fwmrm.net" actualPort="80" path="/ad/l/1" query="s=c005&amp;n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&amp;t=1522781318229184011&amp;f=&amp;r=169843&amp;adid=23688014&amp;reid=9734067&amp;arid=0&amp;iw=&amp;uxnw=&amp;uxss=&amp;uxct=&amp;absid=&amp;trigid=&amp;et=i&amp;cn=concreteEvent&amp;creid=18&amp;zMoatImpressionId=187872602830&amp;ord=1522781321923" remoteAddress="29773.v.fwmrm.net/75.98.70.37" clientAddress="/127.0.0.1" clientPort="51657" startTime="2018-04-03T14:48:42.048-04:00" startTimeMillis="1522781322048" requestBeginTime="2018-04-03T14:48:42.060-04:00" requestBeginTimeMillis="1522781322060" requestTime="2018-04-03T14:48:42.061-04:00" requestTimeMillis="1522781322061" responseTime="2018-04-03T14:48:42.080-04:00" responseTimeMillis="1522781322080" endTime="2018-04-03T14:48:42.081-04:00" endTimeMillis="1522781322081" duration="32" dnsDuration="2" connectDuration="9" requestDuration="1" responseDuration="1" latency="19" overallSpeed="93937" requestSpeed="2586000" responseSpeed="420000" totalSize="3006">
+<request headers="2586" body="0">
+<headers>
+<first-line><![CDATA[GET /ad/l/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=23688014&reid=9734067&arid=0&iw=&uxnw=&uxss=&uxct=&absid=&trigid=&et=i&cn=concreteEvent&creid=18&zMoatImpressionId=187872602830&ord=1522781321923 HTTP/1.1]]></first-line>
+<header>
+<name>Host</name>
+<value>29773.v.fwmrm.net</value></header>
+<header>
+<name>User-Agent</name>
+<value>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36</value></header>
+<header>
+<name>Accept</name>
+<value>image/webp,image/apng,image/*,*/*;q=0.8</value></header>
+<header>
+<name>Referer</name>
+<value>http://player.theplatform.com/p/0L7ZPC/2Ebwsgm4BTLn/embed/select/2u6L1LkPVoqu?siteSectionId=telemundo_homepage_vod&amp;autoPlay=true</value></header>
+<header>
+<name>Accept-Encoding</name>
+<value>gzip, deflate</value></header>
+<header>
+<name>Accept-Language</name>
+<value>en-US,en;q=0.9</value></header>
+<header>
+<name>Cookie</name>
+<value>_uid=&quot;c048_6535460784372566592&quot;; _stid=&quot;169843.0.1455055434%2C171224.0.1427313294%2C&quot;; _ue=&quot;32829%2C127719%2C381110%2C382039%2C384101%2C386123%2C386261%2C392379&quot;; _ha=&quot;&quot;; _sid=&quot;a190_6540102377004368996&quot;; NSC_ozdbewjq3.gxnsn.ofu*80=ffffffff09091fc345525d5f4f58455e445a4a423209; NSC_ozdbewjq4.gxnsn.ofu*80=ffffffff09091a3c45525d5f4f58455e445a4a423209; NSC_btibewjq1.gxnsn.ofu*80=ffffffff09091c3745525d5f4f58455e445a4a423208; NSC_btibewjq2.gxnsn.ofu*80=ffffffff09091c3245525d5f4f58455e445a4a423208; _av=&quot;1522778317.23721454.60%2C&quot;; _cvr=&quot;1522778394%5E169843%5Esg502899%7Esg504688%5E1%7E1%5E60.000000%7E17.000000%2C&quot;; _wr=&quot;g487571&quot;; _cph=&quot;1522781318.5448.1.1%2C1522778308.15562.1.1%2C&quot;; _vr=&quot;1522781318.4549.21674089%7E21674093%7E22350538%7E22754101%7E22994662%7E23107655%7E23130107%7E23586518%7E23688014%7E23803113%7E23809033%7E23809039%7E%2C1522781056.752.21674093%7E22994662%7E23107655%7E23688014%7E23724722%7E23742613%7E23757618%7E23757817%7E23793047%7E23803113%7E23809033%7E23809039%7E%2C1522780988.2159.21674093%7E22994662%7E23107655%7E23688014%7E23724722%7E23742613%7E23757618%7E23757817%7E23793047%7E23803113%7E23809033%7E23809039%7E%2C1522780898.747.21674093%7E22994662%7E23107655%7E23688014%7E23724722%7E23742613%7E23757618%7E23757817%7E23793047%7E23803113%7E23809033%7E23809039%7E%2C1522780811.7821.21674093%7E22994662%7E23107655%7E23688014%7E23724722%7E23742613%7E23757618%7E23757817%7E23793047%7E23803113%7E23809033%7E23809039%7E%2C1522778308.3121.17979008%7E22590296%7E23721455%7E%2C1522767392.5507.19521268%7E22994662%7E23674414%7E23688014%7E23707327%7E23719746%7E23724722%7E23742613%7E23757522%7E23757598%7E23757618%7E23803113%7E%2C&quot;; _auv=&quot;g487571%7E1.1522781321.0%2C22200.1522781321.0%2C%5Eg502899%7E1.1522778332.60%2C22200.1522778332.60%2C%5E&quot;; _sc=&quot;sg487571.1522780811.1522781321.3600.121.119%2Csg502899.1522778308.1522781321.28800.60.12%2C&quot;</value></header></headers></request>
+<response status="200" headers="420" body="0" mime-type="text/html">
+<headers>
+<first-line><![CDATA[HTTP/1.1 200 OK]]></first-line>
+<header>
+<name>Set-Cookie</name>
+<value>_stid=&quot;169843.0.1455055434%2C171224.0.1427313294%2C&quot;;expires=Wed, 03 Apr 2019 18:48:42 GMT;domain=.fwmrm.net;path=/;</value></header>
+<header>
+<name>Set-Cookie</name>
+<value>_sc=&quot;sg487571.1522780811.1522781322.3600.121.119%2Csg502899.1522778308.1522781322.28800.60.12%2C&quot;;expires=Thu, 03 May 2018 18:48:42 GMT;domain=.fwmrm.net;path=/;</value></header>
+<header>
+<name>Content-Type</name>
+<value>text/html</value></header>
+<header>
+<name>Content-Length</name>
+<value>0</value></header>
+<header>
+<name>Expires</name>
+<value>0</value></header>
+<header>
+<name>Pragma</name>
+<value>no-cache</value></header>
+<header>
+<name>Cache-Control</name>
+<value>no-store</value></header>
+<header>
+<name>Date</name>
+<value>Tue, 03 Apr 2018 18:48:41 GMT</value></header>
+<header>
+<name>Server</name>
+<value>FWS</value></header>
+<header>
+<name>P3P</name>
+<value>policyref=&quot;http://www.freewheel.tv/w3c/p3p.xml&quot;,CP=&quot;ALL DSP COR NID&quot;</value></header>
+<header>
+<name>Proxy-Connection</name>
+<value>Keep-alive</value></header></headers>
+<body><![CDATA[]]></body></response></transaction>
+<transaction status="COMPLETE" method="GET" protocolVersion="HTTP/1.1" protocol="http" host="29773.v.fwmrm.net" actualPort="80" path="/ad/l/1" query="s=c005&amp;n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&amp;t=1522781318229184011&amp;f=&amp;r=169843&amp;adid=23688014&amp;reid=9734067&amp;arid=0&amp;iw=&amp;uxnw=&amp;uxss=&amp;uxct=&amp;absid=&amp;trigid=&amp;et=i&amp;cn=concreteEvent&amp;creid=49&amp;zMoatImpressionId=187872602830" remoteAddress="29773.v.fwmrm.net/75.98.70.37" clientAddress="/127.0.0.1" clientPort="51659" startTime="2018-04-03T14:48:42.049-04:00" startTimeMillis="1522781322049" requestBeginTime="2018-04-03T14:48:42.062-04:00" requestBeginTimeMillis="1522781322062" requestTime="2018-04-03T14:48:42.063-04:00" requestTimeMillis="1522781322063" responseTime="2018-04-03T14:48:42.080-04:00" responseTimeMillis="1522781322080" endTime="2018-04-03T14:48:42.081-04:00" endTimeMillis="1522781322081" duration="32" dnsDuration="3" connectDuration="10" requestDuration="1" responseDuration="1" latency="17" overallSpeed="93375" requestSpeed="2568000" responseSpeed="420000" totalSize="2988">
+<request headers="2568" body="0">
+<headers>
+<first-line><![CDATA[GET /ad/l/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=23688014&reid=9734067&arid=0&iw=&uxnw=&uxss=&uxct=&absid=&trigid=&et=i&cn=concreteEvent&creid=49&zMoatImpressionId=187872602830 HTTP/1.1]]></first-line>
+<header>
+<name>Host</name>
+<value>29773.v.fwmrm.net</value></header>
+<header>
+<name>User-Agent</name>
+<value>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36</value></header>
+<header>
+<name>Accept</name>
+<value>image/webp,image/apng,image/*,*/*;q=0.8</value></header>
+<header>
+<name>Referer</name>
+<value>http://player.theplatform.com/p/0L7ZPC/2Ebwsgm4BTLn/embed/select/2u6L1LkPVoqu?siteSectionId=telemundo_homepage_vod&amp;autoPlay=true</value></header>
+<header>
+<name>Accept-Encoding</name>
+<value>gzip, deflate</value></header>
+<header>
+<name>Accept-Language</name>
+<value>en-US,en;q=0.9</value></header>
+<header>
+<name>Cookie</name>
+<value>_uid=&quot;c048_6535460784372566592&quot;; _stid=&quot;169843.0.1455055434%2C171224.0.1427313294%2C&quot;; _ue=&quot;32829%2C127719%2C381110%2C382039%2C384101%2C386123%2C386261%2C392379&quot;; _ha=&quot;&quot;; _sid=&quot;a190_6540102377004368996&quot;; NSC_ozdbewjq3.gxnsn.ofu*80=ffffffff09091fc345525d5f4f58455e445a4a423209; NSC_ozdbewjq4.gxnsn.ofu*80=ffffffff09091a3c45525d5f4f58455e445a4a423209; NSC_btibewjq1.gxnsn.ofu*80=ffffffff09091c3745525d5f4f58455e445a4a423208; NSC_btibewjq2.gxnsn.ofu*80=ffffffff09091c3245525d5f4f58455e445a4a423208; _av=&quot;1522778317.23721454.60%2C&quot;; _cvr=&quot;1522778394%5E169843%5Esg502899%7Esg504688%5E1%7E1%5E60.000000%7E17.000000%2C&quot;; _wr=&quot;g487571&quot;; _cph=&quot;1522781318.5448.1.1%2C1522778308.15562.1.1%2C&quot;; _vr=&quot;1522781318.4549.21674089%7E21674093%7E22350538%7E22754101%7E22994662%7E23107655%7E23130107%7E23586518%7E23688014%7E23803113%7E23809033%7E23809039%7E%2C1522781056.752.21674093%7E22994662%7E23107655%7E23688014%7E23724722%7E23742613%7E23757618%7E23757817%7E23793047%7E23803113%7E23809033%7E23809039%7E%2C1522780988.2159.21674093%7E22994662%7E23107655%7E23688014%7E23724722%7E23742613%7E23757618%7E23757817%7E23793047%7E23803113%7E23809033%7E23809039%7E%2C1522780898.747.21674093%7E22994662%7E23107655%7E23688014%7E23724722%7E23742613%7E23757618%7E23757817%7E23793047%7E23803113%7E23809033%7E23809039%7E%2C1522780811.7821.21674093%7E22994662%7E23107655%7E23688014%7E23724722%7E23742613%7E23757618%7E23757817%7E23793047%7E23803113%7E23809033%7E23809039%7E%2C1522778308.3121.17979008%7E22590296%7E23721455%7E%2C1522767392.5507.19521268%7E22994662%7E23674414%7E23688014%7E23707327%7E23719746%7E23724722%7E23742613%7E23757522%7E23757598%7E23757618%7E23803113%7E%2C&quot;; _auv=&quot;g487571%7E1.1522781321.0%2C22200.1522781321.0%2C%5Eg502899%7E1.1522778332.60%2C22200.1522778332.60%2C%5E&quot;; _sc=&quot;sg487571.1522780811.1522781321.3600.121.119%2Csg502899.1522778308.1522781321.28800.60.12%2C&quot;</value></header></headers></request>
+<response status="200" headers="420" body="0" mime-type="text/html">
+<headers>
+<first-line><![CDATA[HTTP/1.1 200 OK]]></first-line>
+<header>
+<name>Set-Cookie</name>
+<value>_stid=&quot;169843.0.1455055434%2C171224.0.1427313294%2C&quot;;expires=Wed, 03 Apr 2019 18:48:42 GMT;domain=.fwmrm.net;path=/;</value></header>
+<header>
+<name>Set-Cookie</name>
+<value>_sc=&quot;sg487571.1522780811.1522781322.3600.121.119%2Csg502899.1522778308.1522781322.28800.60.12%2C&quot;;expires=Thu, 03 May 2018 18:48:42 GMT;domain=.fwmrm.net;path=/;</value></header>
+<header>
+<name>Content-Type</name>
+<value>text/html</value></header>
+<header>
+<name>Content-Length</name>
+<value>0</value></header>
+<header>
+<name>Expires</name>
+<value>0</value></header>
+<header>
+<name>Pragma</name>
+<value>no-cache</value></header>
+<header>
+<name>Cache-Control</name>
+<value>no-store</value></header>
+<header>
+<name>Date</name>
+<value>Tue, 03 Apr 2018 18:48:41 GMT</value></header>
+<header>
+<name>Server</name>
+<value>FWS</value></header>
+<header>
+<name>P3P</name>
+<value>policyref=&quot;http://www.freewheel.tv/w3c/p3p.xml&quot;,CP=&quot;ALL DSP COR NID&quot;</value></header>
+<header>
+<name>Proxy-Connection</name>
+<value>Keep-alive</value></header></headers>
+<body><![CDATA[]]></body></response></transaction>
+<transaction status="COMPLETE" method="GET" protocolVersion="HTTP/1.1" protocol="http" host="29773.v.fwmrm.net" actualPort="80" path="/ad/l/1" query="s=c005&amp;n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&amp;t=1522781318229184011&amp;f=&amp;r=169843&amp;adid=23688014&amp;reid=9734067&amp;arid=0&amp;iw=&amp;uxnw=&amp;uxss=&amp;uxct=&amp;absid=&amp;trigid=&amp;et=i&amp;cn=concreteEvent&amp;creid=10&amp;zMoatImpressionId=187872602830" remoteAddress="29773.v.fwmrm.net/75.98.70.37" clientAddress="/127.0.0.1" clientPort="51659" startTime="2018-04-03T14:48:42.125-04:00" startTimeMillis="1522781322125" requestBeginTime="2018-04-03T14:48:42.125-04:00" requestBeginTimeMillis="1522781322125" requestTime="2018-04-03T14:48:42.126-04:00" requestTimeMillis="1522781322126" responseTime="2018-04-03T14:48:42.140-04:00" responseTimeMillis="1522781322140" endTime="2018-04-03T14:48:42.140-04:00" endTimeMillis="1522781322140" duration="15" requestDuration="1" responseDuration="0" latency="14" overallSpeed="199200" requestSpeed="2568000" responseSpeed="0" totalSize="2988">
+<request headers="2568" body="0">
+<headers>
+<first-line><![CDATA[GET /ad/l/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=23688014&reid=9734067&arid=0&iw=&uxnw=&uxss=&uxct=&absid=&trigid=&et=i&cn=concreteEvent&creid=10&zMoatImpressionId=187872602830 HTTP/1.1]]></first-line>
+<header>
+<name>Host</name>
+<value>29773.v.fwmrm.net</value></header>
+<header>
+<name>User-Agent</name>
+<value>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36</value></header>
+<header>
+<name>Accept</name>
+<value>image/webp,image/apng,image/*,*/*;q=0.8</value></header>
+<header>
+<name>Referer</name>
+<value>http://player.theplatform.com/p/0L7ZPC/2Ebwsgm4BTLn/embed/select/2u6L1LkPVoqu?siteSectionId=telemundo_homepage_vod&amp;autoPlay=true</value></header>
+<header>
+<name>Accept-Encoding</name>
+<value>gzip, deflate</value></header>
+<header>
+<name>Accept-Language</name>
+<value>en-US,en;q=0.9</value></header>
+<header>
+<name>Cookie</name>
+<value>_uid=&quot;c048_6535460784372566592&quot;; _stid=&quot;169843.0.1455055434%2C171224.0.1427313294%2C&quot;; _ue=&quot;32829%2C127719%2C381110%2C382039%2C384101%2C386123%2C386261%2C392379&quot;; _ha=&quot;&quot;; _sid=&quot;a190_6540102377004368996&quot;; NSC_ozdbewjq3.gxnsn.ofu*80=ffffffff09091fc345525d5f4f58455e445a4a423209; NSC_ozdbewjq4.gxnsn.ofu*80=ffffffff09091a3c45525d5f4f58455e445a4a423209; NSC_btibewjq1.gxnsn.ofu*80=ffffffff09091c3745525d5f4f58455e445a4a423208; NSC_btibewjq2.gxnsn.ofu*80=ffffffff09091c3245525d5f4f58455e445a4a423208; _av=&quot;1522778317.23721454.60%2C&quot;; _cvr=&quot;1522778394%5E169843%5Esg502899%7Esg504688%5E1%7E1%5E60.000000%7E17.000000%2C&quot;; _wr=&quot;g487571&quot;; _cph=&quot;1522781318.5448.1.1%2C1522778308.15562.1.1%2C&quot;; _vr=&quot;1522781318.4549.21674089%7E21674093%7E22350538%7E22754101%7E22994662%7E23107655%7E23130107%7E23586518%7E23688014%7E23803113%7E23809033%7E23809039%7E%2C1522781056.752.21674093%7E22994662%7E23107655%7E23688014%7E23724722%7E23742613%7E23757618%7E23757817%7E23793047%7E23803113%7E23809033%7E23809039%7E%2C1522780988.2159.21674093%7E22994662%7E23107655%7E23688014%7E23724722%7E23742613%7E23757618%7E23757817%7E23793047%7E23803113%7E23809033%7E23809039%7E%2C1522780898.747.21674093%7E22994662%7E23107655%7E23688014%7E23724722%7E23742613%7E23757618%7E23757817%7E23793047%7E23803113%7E23809033%7E23809039%7E%2C1522780811.7821.21674093%7E22994662%7E23107655%7E23688014%7E23724722%7E23742613%7E23757618%7E23757817%7E23793047%7E23803113%7E23809033%7E23809039%7E%2C1522778308.3121.17979008%7E22590296%7E23721455%7E%2C1522767392.5507.19521268%7E22994662%7E23674414%7E23688014%7E23707327%7E23719746%7E23724722%7E23742613%7E23757522%7E23757598%7E23757618%7E23803113%7E%2C&quot;; _auv=&quot;g487571%7E1.1522781321.0%2C22200.1522781321.0%2C%5Eg502899%7E1.1522778332.60%2C22200.1522778332.60%2C%5E&quot;; _sc=&quot;sg487571.1522780811.1522781322.3600.121.119%2Csg502899.1522778308.1522781322.28800.60.12%2C&quot;</value></header></headers></request>
+<response status="200" headers="420" body="0" mime-type="text/html">
+<headers>
+<first-line><![CDATA[HTTP/1.1 200 OK]]></first-line>
+<header>
+<name>Set-Cookie</name>
+<value>_stid=&quot;169843.0.1455055434%2C171224.0.1427313294%2C&quot;;expires=Wed, 03 Apr 2019 18:48:42 GMT;domain=.fwmrm.net;path=/;</value></header>
+<header>
+<name>Set-Cookie</name>
+<value>_sc=&quot;sg487571.1522780811.1522781322.3600.121.119%2Csg502899.1522778308.1522781322.28800.60.12%2C&quot;;expires=Thu, 03 May 2018 18:48:42 GMT;domain=.fwmrm.net;path=/;</value></header>
+<header>
+<name>Content-Type</name>
+<value>text/html</value></header>
+<header>
+<name>Content-Length</name>
+<value>0</value></header>
+<header>
+<name>Expires</name>
+<value>0</value></header>
+<header>
+<name>Pragma</name>
+<value>no-cache</value></header>
+<header>
+<name>Cache-Control</name>
+<value>no-store</value></header>
+<header>
+<name>Date</name>
+<value>Tue, 03 Apr 2018 18:48:41 GMT</value></header>
+<header>
+<name>Server</name>
+<value>FWS</value></header>
+<header>
+<name>P3P</name>
+<value>policyref=&quot;http://www.freewheel.tv/w3c/p3p.xml&quot;,CP=&quot;ALL DSP COR NID&quot;</value></header>
+<header>
+<name>Proxy-Connection</name>
+<value>Keep-alive</value></header></headers>
+<body><![CDATA[]]></body></response></transaction>
+<transaction status="COMPLETE" method="GET" protocolVersion="HTTP/1.1" protocol="http" host="29773.v.fwmrm.net" actualPort="80" path="/ad/l/1" query="s=c005&amp;n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&amp;t=1522781318229184011&amp;f=&amp;r=169843&amp;adid=23688014&amp;reid=9734067&amp;arid=0&amp;iw=&amp;uxnw=&amp;uxss=&amp;uxct=&amp;absid=&amp;trigid=&amp;et=i&amp;cn=concreteEvent&amp;creid=11&amp;zMoatImpressionId=187872602830&amp;ord=1522781321923" remoteAddress="29773.v.fwmrm.net/75.98.70.37" clientAddress="/127.0.0.1" clientPort="51676" startTime="2018-04-03T14:48:44.156-04:00" startTimeMillis="1522781324156" requestBeginTime="2018-04-03T14:48:44.188-04:00" requestBeginTimeMillis="1522781324188" requestTime="2018-04-03T14:48:44.189-04:00" requestTimeMillis="1522781324189" responseTime="2018-04-03T14:48:44.209-04:00" responseTimeMillis="1522781324209" endTime="2018-04-03T14:48:44.209-04:00" endTimeMillis="1522781324209" duration="53" dnsDuration="2" connectDuration="30" requestDuration="1" responseDuration="0" latency="20" overallSpeed="56716" requestSpeed="2586000" responseSpeed="0" totalSize="3006">
+<request headers="2586" body="0">
+<headers>
+<first-line><![CDATA[GET /ad/l/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=23688014&reid=9734067&arid=0&iw=&uxnw=&uxss=&uxct=&absid=&trigid=&et=i&cn=concreteEvent&creid=11&zMoatImpressionId=187872602830&ord=1522781321923 HTTP/1.1]]></first-line>
+<header>
+<name>Host</name>
+<value>29773.v.fwmrm.net</value></header>
+<header>
+<name>User-Agent</name>
+<value>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36</value></header>
+<header>
+<name>Accept</name>
+<value>image/webp,image/apng,image/*,*/*;q=0.8</value></header>
+<header>
+<name>Referer</name>
+<value>http://player.theplatform.com/p/0L7ZPC/2Ebwsgm4BTLn/embed/select/2u6L1LkPVoqu?siteSectionId=telemundo_homepage_vod&amp;autoPlay=true</value></header>
+<header>
+<name>Accept-Encoding</name>
+<value>gzip, deflate</value></header>
+<header>
+<name>Accept-Language</name>
+<value>en-US,en;q=0.9</value></header>
+<header>
+<name>Cookie</name>
+<value>_uid=&quot;c048_6535460784372566592&quot;; _stid=&quot;169843.0.1455055434%2C171224.0.1427313294%2C&quot;; _ue=&quot;32829%2C127719%2C381110%2C382039%2C384101%2C386123%2C386261%2C392379&quot;; _ha=&quot;&quot;; _sid=&quot;a190_6540102377004368996&quot;; NSC_ozdbewjq3.gxnsn.ofu*80=ffffffff09091fc345525d5f4f58455e445a4a423209; NSC_ozdbewjq4.gxnsn.ofu*80=ffffffff09091a3c45525d5f4f58455e445a4a423209; NSC_btibewjq1.gxnsn.ofu*80=ffffffff09091c3745525d5f4f58455e445a4a423208; NSC_btibewjq2.gxnsn.ofu*80=ffffffff09091c3245525d5f4f58455e445a4a423208; _av=&quot;1522778317.23721454.60%2C&quot;; _cvr=&quot;1522778394%5E169843%5Esg502899%7Esg504688%5E1%7E1%5E60.000000%7E17.000000%2C&quot;; _wr=&quot;g487571&quot;; _cph=&quot;1522781318.5448.1.1%2C1522778308.15562.1.1%2C&quot;; _vr=&quot;1522781318.4549.21674089%7E21674093%7E22350538%7E22754101%7E22994662%7E23107655%7E23130107%7E23586518%7E23688014%7E23803113%7E23809033%7E23809039%7E%2C1522781056.752.21674093%7E22994662%7E23107655%7E23688014%7E23724722%7E23742613%7E23757618%7E23757817%7E23793047%7E23803113%7E23809033%7E23809039%7E%2C1522780988.2159.21674093%7E22994662%7E23107655%7E23688014%7E23724722%7E23742613%7E23757618%7E23757817%7E23793047%7E23803113%7E23809033%7E23809039%7E%2C1522780898.747.21674093%7E22994662%7E23107655%7E23688014%7E23724722%7E23742613%7E23757618%7E23757817%7E23793047%7E23803113%7E23809033%7E23809039%7E%2C1522780811.7821.21674093%7E22994662%7E23107655%7E23688014%7E23724722%7E23742613%7E23757618%7E23757817%7E23793047%7E23803113%7E23809033%7E23809039%7E%2C1522778308.3121.17979008%7E22590296%7E23721455%7E%2C1522767392.5507.19521268%7E22994662%7E23674414%7E23688014%7E23707327%7E23719746%7E23724722%7E23742613%7E23757522%7E23757598%7E23757618%7E23803113%7E%2C&quot;; _auv=&quot;g487571%7E1.1522781321.0%2C22200.1522781321.0%2C%5Eg502899%7E1.1522778332.60%2C22200.1522778332.60%2C%5E&quot;; _sc=&quot;sg487571.1522780811.1522781322.3600.121.119%2Csg502899.1522778308.1522781322.28800.60.12%2C&quot;</value></header></headers></request>
+<response status="200" headers="420" body="0" mime-type="text/html">
+<headers>
+<first-line><![CDATA[HTTP/1.1 200 OK]]></first-line>
+<header>
+<name>Set-Cookie</name>
+<value>_stid=&quot;169843.0.1455055434%2C171224.0.1427313294%2C&quot;;expires=Wed, 03 Apr 2019 18:48:44 GMT;domain=.fwmrm.net;path=/;</value></header>
+<header>
+<name>Set-Cookie</name>
+<value>_sc=&quot;sg487571.1522780811.1522781324.3600.121.119%2Csg502899.1522778308.1522781324.28800.60.12%2C&quot;;expires=Thu, 03 May 2018 18:48:44 GMT;domain=.fwmrm.net;path=/;</value></header>
+<header>
+<name>Content-Type</name>
+<value>text/html</value></header>
+<header>
+<name>Content-Length</name>
+<value>0</value></header>
+<header>
+<name>Expires</name>
+<value>0</value></header>
+<header>
+<name>Pragma</name>
+<value>no-cache</value></header>
+<header>
+<name>Cache-Control</name>
+<value>no-store</value></header>
+<header>
+<name>Date</name>
+<value>Tue, 03 Apr 2018 18:48:43 GMT</value></header>
+<header>
+<name>Server</name>
+<value>FWS</value></header>
+<header>
+<name>P3P</name>
+<value>policyref=&quot;http://www.freewheel.tv/w3c/p3p.xml&quot;,CP=&quot;ALL DSP COR NID&quot;</value></header>
+<header>
+<name>Proxy-Connection</name>
+<value>Keep-alive</value></header></headers>
+<body><![CDATA[]]></body></response></transaction>
+<transaction status="COMPLETE" method="GET" protocolVersion="HTTP/1.1" protocol="http" host="29773.v.fwmrm.net" actualPort="80" path="/ad/l/1" query="s=c005&amp;n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&amp;t=1522781318229184011&amp;f=&amp;r=169843&amp;adid=23688014&amp;reid=9734067&amp;arid=0&amp;iw=&amp;uxnw=&amp;uxss=&amp;uxct=&amp;absid=&amp;trigid=&amp;et=i&amp;cn=concreteEvent&amp;creid=14&amp;zMoatImpressionId=187872602830" remoteAddress="29773.v.fwmrm.net/75.98.70.37" clientAddress="/127.0.0.1" clientPort="51677" startTime="2018-04-03T14:48:44.156-04:00" startTimeMillis="1522781324156" requestBeginTime="2018-04-03T14:48:44.188-04:00" requestBeginTimeMillis="1522781324188" requestTime="2018-04-03T14:48:44.189-04:00" requestTimeMillis="1522781324189" responseTime="2018-04-03T14:48:44.208-04:00" responseTimeMillis="1522781324208" endTime="2018-04-03T14:48:44.209-04:00" endTimeMillis="1522781324209" duration="52" dnsDuration="2" connectDuration="29" requestDuration="1" responseDuration="1" latency="19" overallSpeed="57461" requestSpeed="2568000" responseSpeed="420000" totalSize="2988">
+<request headers="2568" body="0">
+<headers>
+<first-line><![CDATA[GET /ad/l/1?s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=23688014&reid=9734067&arid=0&iw=&uxnw=&uxss=&uxct=&absid=&trigid=&et=i&cn=concreteEvent&creid=14&zMoatImpressionId=187872602830 HTTP/1.1]]></first-line>
+<header>
+<name>Host</name>
+<value>29773.v.fwmrm.net</value></header>
+<header>
+<name>User-Agent</name>
+<value>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36</value></header>
+<header>
+<name>Accept</name>
+<value>image/webp,image/apng,image/*,*/*;q=0.8</value></header>
+<header>
+<name>Referer</name>
+<value>http://player.theplatform.com/p/0L7ZPC/2Ebwsgm4BTLn/embed/select/2u6L1LkPVoqu?siteSectionId=telemundo_homepage_vod&amp;autoPlay=true</value></header>
+<header>
+<name>Accept-Encoding</name>
+<value>gzip, deflate</value></header>
+<header>
+<name>Accept-Language</name>
+<value>en-US,en;q=0.9</value></header>
+<header>
+<name>Cookie</name>
+<value>_uid=&quot;c048_6535460784372566592&quot;; _stid=&quot;169843.0.1455055434%2C171224.0.1427313294%2C&quot;; _ue=&quot;32829%2C127719%2C381110%2C382039%2C384101%2C386123%2C386261%2C392379&quot;; _ha=&quot;&quot;; _sid=&quot;a190_6540102377004368996&quot;; NSC_ozdbewjq3.gxnsn.ofu*80=ffffffff09091fc345525d5f4f58455e445a4a423209; NSC_ozdbewjq4.gxnsn.ofu*80=ffffffff09091a3c45525d5f4f58455e445a4a423209; NSC_btibewjq1.gxnsn.ofu*80=ffffffff09091c3745525d5f4f58455e445a4a423208; NSC_btibewjq2.gxnsn.ofu*80=ffffffff09091c3245525d5f4f58455e445a4a423208; _av=&quot;1522778317.23721454.60%2C&quot;; _cvr=&quot;1522778394%5E169843%5Esg502899%7Esg504688%5E1%7E1%5E60.000000%7E17.000000%2C&quot;; _wr=&quot;g487571&quot;; _cph=&quot;1522781318.5448.1.1%2C1522778308.15562.1.1%2C&quot;; _vr=&quot;1522781318.4549.21674089%7E21674093%7E22350538%7E22754101%7E22994662%7E23107655%7E23130107%7E23586518%7E23688014%7E23803113%7E23809033%7E23809039%7E%2C1522781056.752.21674093%7E22994662%7E23107655%7E23688014%7E23724722%7E23742613%7E23757618%7E23757817%7E23793047%7E23803113%7E23809033%7E23809039%7E%2C1522780988.2159.21674093%7E22994662%7E23107655%7E23688014%7E23724722%7E23742613%7E23757618%7E23757817%7E23793047%7E23803113%7E23809033%7E23809039%7E%2C1522780898.747.21674093%7E22994662%7E23107655%7E23688014%7E23724722%7E23742613%7E23757618%7E23757817%7E23793047%7E23803113%7E23809033%7E23809039%7E%2C1522780811.7821.21674093%7E22994662%7E23107655%7E23688014%7E23724722%7E23742613%7E23757618%7E23757817%7E23793047%7E23803113%7E23809033%7E23809039%7E%2C1522778308.3121.17979008%7E22590296%7E23721455%7E%2C1522767392.5507.19521268%7E22994662%7E23674414%7E23688014%7E23707327%7E23719746%7E23724722%7E23742613%7E23757522%7E23757598%7E23757618%7E23803113%7E%2C&quot;; _auv=&quot;g487571%7E1.1522781321.0%2C22200.1522781321.0%2C%5Eg502899%7E1.1522778332.60%2C22200.1522778332.60%2C%5E&quot;; _sc=&quot;sg487571.1522780811.1522781322.3600.121.119%2Csg502899.1522778308.1522781322.28800.60.12%2C&quot;</value></header></headers></request>
+<response status="200" headers="420" body="0" mime-type="text/html">
+<headers>
+<first-line><![CDATA[HTTP/1.1 200 OK]]></first-line>
+<header>
+<name>Set-Cookie</name>
+<value>_stid=&quot;169843.0.1455055434%2C171224.0.1427313294%2C&quot;;expires=Wed, 03 Apr 2019 18:48:44 GMT;domain=.fwmrm.net;path=/;</value></header>
+<header>
+<name>Set-Cookie</name>
+<value>_sc=&quot;sg487571.1522780811.1522781324.3600.121.119%2Csg502899.1522778308.1522781324.28800.60.12%2C&quot;;expires=Thu, 03 May 2018 18:48:44 GMT;domain=.fwmrm.net;path=/;</value></header>
+<header>
+<name>Content-Type</name>
+<value>text/html</value></header>
+<header>
+<name>Content-Length</name>
+<value>0</value></header>
+<header>
+<name>Expires</name>
+<value>0</value></header>
+<header>
+<name>Pragma</name>
+<value>no-cache</value></header>
+<header>
+<name>Cache-Control</name>
+<value>no-store</value></header>
+<header>
+<name>Date</name>
+<value>Tue, 03 Apr 2018 18:48:43 GMT</value></header>
+<header>
+<name>Server</name>
+<value>FWS</value></header>
+<header>
+<name>P3P</name>
+<value>policyref=&quot;http://www.freewheel.tv/w3c/p3p.xml&quot;,CP=&quot;ALL DSP COR NID&quot;</value></header>
+<header>
+<name>Proxy-Connection</name>
+<value>Keep-alive</value></header></headers>
+<body><![CDATA[]]></body></response></transaction>
+<transaction status="RECEIVED_REQUEST_BODY" method="GET" protocolVersion="HTTP/1.1" protocol="http" host="29773.v.fwmrm.net" actualPort="80" path="/ad/l/1" query="ct=4&amp;metr=47&amp;cn=firstQuartile&amp;et=i&amp;s=c005&amp;n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&amp;t=1522781318229184011&amp;f=&amp;r=169843&amp;adid=23688014&amp;reid=9734067&amp;arid=0&amp;iw=&amp;uxnw=&amp;uxss=&amp;uxct=" remoteAddress="29773.v.fwmrm.net/75.98.70.37" clientAddress="/127.0.0.1" clientPort="51676" startTime="2018-04-03T14:48:45.374-04:00" startTimeMillis="1522781325374" requestBeginTime="2018-04-03T14:48:45.374-04:00" requestBeginTimeMillis="1522781325374" duration="107220" requestDuration="107220" overallSpeed="23" requestSpeed="23" totalSize="2526">
+<request headers="2526" body="0">
+<headers>
+<first-line><![CDATA[GET /ad/l/1?ct=4&metr=47&cn=firstQuartile&et=i&s=c005&n=169843%3B169843%3B147530%3B171224%3B372496%3B376521%3B378678%3B379619%3B384777%3B499607&t=1522781318229184011&f=&r=169843&adid=23688014&reid=9734067&arid=0&iw=&uxnw=&uxss=&uxct= HTTP/1.1]]></first-line>
+<header>
+<name>Host</name>
+<value>29773.v.fwmrm.net</value></header>
+<header>
+<name>User-Agent</name>
+<value>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36</value></header>
+<header>
+<name>Accept</name>
+<value>image/webp,image/apng,image/*,*/*;q=0.8</value></header>
+<header>
+<name>Referer</name>
+<value>http://player.theplatform.com/p/0L7ZPC/2Ebwsgm4BTLn/embed/select/2u6L1LkPVoqu?siteSectionId=telemundo_homepage_vod&amp;autoPlay=true</value></header>
+<header>
+<name>Accept-Encoding</name>
+<value>gzip, deflate</value></header>
+<header>
+<name>Accept-Language</name>
+<value>en-US,en;q=0.9</value></header>
+<header>
+<name>Cookie</name>
+<value>_uid=&quot;c048_6535460784372566592&quot;; _stid=&quot;169843.0.1455055434%2C171224.0.1427313294%2C&quot;; _ue=&quot;32829%2C127719%2C381110%2C382039%2C384101%2C386123%2C386261%2C392379&quot;; _ha=&quot;&quot;; _sid=&quot;a190_6540102377004368996&quot;; NSC_ozdbewjq3.gxnsn.ofu*80=ffffffff09091fc345525d5f4f58455e445a4a423209; NSC_ozdbewjq4.gxnsn.ofu*80=ffffffff09091a3c45525d5f4f58455e445a4a423209; NSC_btibewjq1.gxnsn.ofu*80=ffffffff09091c3745525d5f4f58455e445a4a423208; NSC_btibewjq2.gxnsn.ofu*80=ffffffff09091c3245525d5f4f58455e445a4a423208; _av=&quot;1522778317.23721454.60%2C&quot;; _cvr=&quot;1522778394%5E169843%5Esg502899%7Esg504688%5E1%7E1%5E60.000000%7E17.000000%2C&quot;; _wr=&quot;g487571&quot;; _cph=&quot;1522781318.5448.1.1%2C1522778308.15562.1.1%2C&quot;; _vr=&quot;1522781318.4549.21674089%7E21674093%7E22350538%7E22754101%7E22994662%7E23107655%7E23130107%7E23586518%7E23688014%7E23803113%7E23809033%7E23809039%7E%2C1522781056.752.21674093%7E22994662%7E23107655%7E23688014%7E23724722%7E23742613%7E23757618%7E23757817%7E23793047%7E23803113%7E23809033%7E23809039%7E%2C1522780988.2159.21674093%7E22994662%7E23107655%7E23688014%7E23724722%7E23742613%7E23757618%7E23757817%7E23793047%7E23803113%7E23809033%7E23809039%7E%2C1522780898.747.21674093%7E22994662%7E23107655%7E23688014%7E23724722%7E23742613%7E23757618%7E23757817%7E23793047%7E23803113%7E23809033%7E23809039%7E%2C1522780811.7821.21674093%7E22994662%7E23107655%7E23688014%7E23724722%7E23742613%7E23757618%7E23757817%7E23793047%7E23803113%7E23809033%7E23809039%7E%2C1522778308.3121.17979008%7E22590296%7E23721455%7E%2C1522767392.5507.19521268%7E22994662%7E23674414%7E23688014%7E23707327%7E23719746%7E23724722%7E23742613%7E23757522%7E23757598%7E23757618%7E23803113%7E%2C&quot;; _auv=&quot;g487571%7E1.1522781321.0%2C22200.1522781321.0%2C%5Eg502899%7E1.1522778332.60%2C22200.1522778332.60%2C%5E&quot;; _sc=&quot;sg487571.1522780811.1522781324.3600.121.119%2Csg502899.1522778308.1522781324.28800.60.12%2C&quot;</value></header></headers></request>
+<response headers="0" body="0" /></transaction></charles-session>
